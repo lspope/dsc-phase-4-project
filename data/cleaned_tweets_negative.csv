@@ -1,0 +1,553 @@
+id,tweet_text,labeled_brand_or_product,detected_emotion,sentiment,brand,tweet_char_count
+0,".@wesley83 I have a 3G iPhone. After 3 hrs tweeting at #RISE_Austin, it was dead!  I need to upgrade. Plugin stations at #SXSW.",iPhone,Negative emotion,Negative,Apple,127
+3,@sxsw I hope this year's festival isn't as crashy as this year's iPhone app. #sxsw,iPad or iPhone App,Negative emotion,Negative,Apple,82
+17,I just noticed DST is coming this weekend. How many iPhone users will be an hour late at SXSW come Sunday morning? #SXSW #iPhone,iPhone,Negative emotion,Negative,Apple,128
+38,@mention  - False Alarm: Google Circles Not Coming Now���and Probably Not Ever? - {link} #Google #Circles #Social #SXSW,Google,Negative emotion,Negative,Google,119
+62,Again? RT @mention Line at the Apple store is insane.. #sxsw,UNKNOWN,Negative emotion,Negative,Apple,60
+65,attending @mention iPad design headaches #sxsw {link},iPad,Negative emotion,Negative,Apple,53
+66,"Boooo! RT @mention Flipboard is developing an iPhone version, not Android, says @mention #sxsw",UNKNOWN,Negative emotion,Negative,BOTH,94
+90,What !?!? @mention  #SXSW does not provide iPhone chargers?!?  I've changed my mind about going next year!,iPhone,Negative emotion,Negative,Apple,106
+101,Know that &quot;dataviz&quot; translates to &quot;satanic&quot; on an iPhone. I'm just sayin'. #sxsw,UNKNOWN,Negative emotion,Negative,Apple,100
+163,"Seriously #sxsw? Did you do any testing on the mobile apps? Constant iPad crashes causing lost schedules, and no sync for WP7.",iPad or iPhone App,Negative emotion,Negative,Apple,126
+165,ipad2 and #sxsw...a conflagration of doofusness.  {link},iPad,Negative emotion,Negative,Apple,56
+173,"You spent $1,000+ to come to SXSW. 
+
+You've already used iPad 1. 
+
+The wait is a couple city blocks. 
+
+Why? #ipad2 #SXSW {link}",iPad,Negative emotion,Negative,Apple,127
+182,"I'm up to 2 iPad 2s seen in the wild. Both people say it is fast, but the still pics are terrible. #sxsw",iPad,Negative emotion,Negative,Apple,104
+224,"If iPhone alarms botch the timechange, how many #SXSW'ers freak? Late to flights, missed panels, behind on bloody marys...",iPhone,Negative emotion,Negative,Apple,122
+227,I meant I also wish I  at #SXSW #dyac stupid iPhone!,iPhone,Negative emotion,Negative,Apple,52
+252,"Found the app kyping my iPhone's geolocation &amp; not releasing when in background. Need a patch, @mention #batterykiller #SXSW",iPad or iPhone App,Negative emotion,Negative,Apple,128
+259,Of course Apple built a temp store in Austin. It's Texas. They understand the concept of corralling cattle #SXSW #PickMeUpAniPad2,Apple,Negative emotion,Negative,Apple,129
+268,���@mention Apple is opening up a temporary store in downtown Austin for #SXSW and the iPad 2 launch&quot; oh YAY more traffic.,Apple,Negative emotion,Negative,Apple,127
+280,&quot;The Apple store at the mall on Sunday is 10x as crowded as this. This line is fake. I just need a fucking dongle.&quot; Genius let me in. #sxsw,Apple,Negative emotion,Negative,Apple,149
+293,iPad news apps 'so last year' at #SXSW {link},iPad or iPhone App,Negative emotion,Negative,Apple,45
+313,Overheard at #sxsw interactive: &quot;Arg! I hate the iphone! I want my blackberry back&quot; #shocked,iPhone,Negative emotion,Negative,Apple,102
+315,���@mention at #sxsw: &quot;apple comes up with cool technology no one's ever heard of because they don't go to conferences&quot;�۝,Apple,Negative emotion,Negative,Apple,131
+324,overheard at MDW (and I'll second it) &quot;halfway through my iPhone battery already and I haven't even boarded the plane to #sxsw&quot; #amateurhour,iPhone,Negative emotion,Negative,Apple,150
+339,they took away the lego pit but replaced it with a recharging station ;) #sxsw and i might check prices for an iphone - crap samsung android,Android,Negative emotion,Negative,Google,140
+341,".@mention Bad Apple: shows up late, Qs the process, poo-poos ideas, leaves early. Can even be &quot;I'm too creative&quot; or busy #gamestorming #sxsw",Apple,Negative emotion,Negative,Apple,150
+343,Trying to balance the power of power needs on iPhone vs iPad at #sxsw. This 3G iPad sucks it out quick. Might have go airplane mode.,iPad,Negative emotion,Negative,Apple,132
+346,My iPhone battery can't keep up with my tweets! Thanks Apple.  #SXSW  #precommerce,iPhone,Negative emotion,Negative,Apple,82
+356,���@mention Best thing I've heard this weekend at #SXSW &quot;I gave my iPad 2 money to #Japan relief. I don't need an iPad 2.&quot;  @mention,iPad,Negative emotion,Negative,Apple,142
+362,Google vs Bing on #bettersearch. Bing has a shot at success w/ structured search.  Potentially higher margin CPA model vs #Google. #SXSW,Google,Negative emotion,Negative,Google,136
+394,"iPad 2 is coming out at #SXSW, guess Apple's pretty desperate to give it attention.",Apple,Negative emotion,Negative,Apple,83
+406,Shipments daily - follow @mention #AppleATXdt 4 updates RT @mention Pop-up Apple Store seems to be out of pop-up iPad2s. #SXSW,UNKNOWN,Negative emotion,Negative,Apple,126
+410,IPhone is dead. Find me on the secret batphone #sxsw.,iPhone,Negative emotion,Negative,Apple,53
+431,Why Barry Diller thinks iPad only content is nuts @mention #SXSW @mention {link} @mention,iPad,Negative emotion,Negative,Apple,89
+434,In Japan: Docomo introduced mobile apps six years before Apple came out with app store. #jpmobilesummit #sxsw,Apple,Negative emotion,Negative,Apple,109
+445,Jeez guys dunno about an Apple pop-up over a Gold's Gym. Do u realize how un-Jobs-aesthetic that is? #SXSW #Apple,Apple,Negative emotion,Negative,Apple,113
+485,I need to find a better #SXSW stream to follow. The inane iPad 2 tweets are surely not what SouthBy is about,iPad,Negative emotion,Negative,Apple,108
+526,"Austin is getting full, and #SXSW is underway.  I can tell because my iPhone is an intermittent brick. #crowded",iPhone,Negative emotion,Negative,Apple,111
+551,Length of Google penalty based on severity of breach of webmaster guidelines. i.e.white text on white bgr might get 30 day pen. #sxsw #qagb,UNKNOWN,Negative emotion,Negative,Google,139
+557,"���@mention Google to Launch Major New Social Network Called Circles, Possibly Today {link} #sxsw�۝ 
+It'll never beat myspace.",Other Google product or service,Negative emotion,Negative,Google,126
+607,Hey #SXSW how bout donating all this $ your spending on the new #iPad to Japan. Do you REALLY need that thing?,iPad,Negative emotion,Negative,Apple,110
+615,".@mention I have a 3G iPhone. After 3 hrs tweeting at #RISE_Austin, it was dead!  I need to upgrade. Plugin stations at #SXSW.",iPhone,Negative emotion,Negative,Apple,126
+616,.@mention I have a feeling #SXSW will be the worst place to try &amp; get an iPad 2- everyone there will be trying to get one. #techiesunite,iPad,Negative emotion,Negative,Apple,140
+626,"I thought I would use my iPad a lot during #SXSW, but I haven't even touched it once.  Hmmzies.",iPad,Negative emotion,Negative,Apple,95
+656,"google is interested in location based tech for indoor venues - businesses, convention centers etc.  Tech needs to improve first.  #sxsw",Google,Negative emotion,Negative,Google,136
+670,the first iPad didn't even exist here last year and I already feel like I'm pulling out an antique everytime I use my iPad #sxsw #ipad2,iPad,Negative emotion,Negative,Apple,135
+675,"shoot, my ipad will not display any search results :( will have to go through questions later #osmpw #sxsw",iPad,Negative emotion,Negative,Apple,106
+678,The #SXSW iPhone app is mocking me. Like I have the money to be there - COME ON.,iPad or iPhone App,Negative emotion,Negative,Apple,80
+679,The #SXSW iPhone app is one of the worst I've had to use in a very long time.,iPad or iPhone App,Negative emotion,Negative,Apple,77
+686,Disliking iPhone twitter auto shortening links for me. #sxsw,iPad or iPhone App,Negative emotion,Negative,Apple,60
+692,my iPhone is overheating. why are there so many british sounding people in texas? #SXSW,iPhone,Negative emotion,Negative,Apple,87
+699,My iPhone is wilting under the stress of being at #sxsw.,iPhone,Negative emotion,Negative,Apple,56
+718,"more that just location, PixieEngine! RT @mention Google says the future is location, location, location: {link} #SXSW #CNN",Google,Negative emotion,Negative,Google,123
+724,"iPhone, I know this #SXSW week will be tough on your already-dwindling battery, but so help me Jeebus if you keep correcting my curse words.",iPhone,Negative emotion,Negative,Apple,140
+734,"Google to Launch Major New Social Network Called Circles (Updated) {link} *Not launched at #SXSW, but soon. Should I care?",Other Google product or service,Negative emotion,Negative,Google,122
+797,"Google to launch product! Wait, no launch, but product exists.  Wait, product does not exist! #sxsw {link}",Google,Negative emotion,Negative,Google,106
+811,"God, it's like being at #sxsw - have iMac, MacBook, iPhone and BlackBerry all staring at me. Enough! Time to read a book - remember those?",iPhone,Negative emotion,Negative,Apple,138
+813,"ha, seems like it --&gt; ���@mention The only news at SXSWi was Apple's temporary iPad store? #sxsw #wth?�۝",Apple,Negative emotion,Negative,Apple,107
+878,compiling my #sxsw list in one google doc is taking a lot longer than i thought... so many parties. so many good musicians.,Other Google product or service,Negative emotion,Negative,Google,123
+879,Day 1 and my charger kicked the bucket. Where the heck is the Apple store that's within walking distance? #sxsw,Apple,Negative emotion,Negative,Apple,111
+882,"With just my iPhone and iPad on me, I feel very unequipped compared to everyone else. Dang! #sxsw",iPhone,Negative emotion,Negative,Apple,97
+886,"Hm? Do we need another 1? RT @mention Google to Launch Major New Social Network Called Circles, Possibly Today {link} #sxsw",UNKNOWN,Negative emotion,Negative,Google,123
+904,"Google is not launching anything during #sxsw, just partying {link} #circles",UNKNOWN,Negative emotion,Negative,Google,76
+912,&quot;All of #SXSW is nothing but a teeming sea of iPhone addicts too busy Twittering to ever engage with one anoth��_ (cont) {link},iPhone,Negative emotion,Negative,Apple,132
+913,Not a fan of a new #sxsw trend - audience sharing opinions via holding up an iPad. Not here to listen to you. #annoying,iPad,Negative emotion,Negative,Apple,119
+926,Tomlinson of TX Observer says Apple subscription data holding is biggest impediment to success. #newsapps #sxsw,Apple,Negative emotion,Negative,Apple,111
+949,@mention  packing a point by showing iphone fragmentation  #SXSW,iPhone,Negative emotion,Negative,Apple,64
+967,I left my pocket guide at the hotel. I don't know how I'm going to cope. What does that say about the usability of iPad/iPhone app? #SXSW,iPad or iPhone App,Negative emotion,Negative,Apple,137
+985,.@mention Problem with Google Living Stories was the process of creating content didn't change - was just an interface. #hacknews #SXSW,Other Google product or service,Negative emotion,Negative,Google,135
+994,BRILLIANT READ: Attention Marketers and Media Professionals: the iPad won't save you by @mention  {link} #usguys #SxSW,UNKNOWN,Negative emotion,Negative,Apple,118
+1014,"L.A.M.E.  RT @mention &quot;...by the law of averages, better than Buzz&quot; RT @mention &quot;Google Circles will be ______ &quot;  #sxsw",Other Google product or service,Negative emotion,Negative,Google,139
+1021,New #SXSW rule: no more ooing and ahing over your new iPad. We get it. Its not a big deal. Everybody has one now... :-),iPad,Negative emotion,Negative,Apple,119
+1029,My iPhone says it can't connect to the Internet even though #sxsw wifi works great on my computer. Any suggestions?,UNKNOWN,Negative emotion,Negative,Apple,115
+1051,Q: Why do social sites like Delicious often have better results than Google or Bing? #qagb #sxsw,Google,Negative emotion,Negative,Google,96
+1081,"Just read that #apple will be at #SXSW selling iPad 2 on release day. Good lord, the vortex of smugness that day may be unbearable.",Apple,Negative emotion,Negative,Apple,131
+1099,���@mention The 10 most dangerous IPhone apps. #sxsw {link},iPad or iPhone App,Negative emotion,Negative,Apple,59
+1134,"So I went the whole day w/out my laptop &amp; just used my iPad 1. Things I missed: FTP, cloudapp, fast typing, &amp; skype. #iPad #sxsw",iPad,Negative emotion,Negative,Apple,136
+1137,You think there would be a #sxsw app for blackberry. Just when I gave iPhone the finger! Guess I'll have to carry around an ipad. LAME,iPhone,Negative emotion,Negative,Apple,134
+1147,People in this Apple store do not...smell great. #sxsw #hereforwork #nottheipad2,Apple,Negative emotion,Negative,Apple,80
+1165,Thank you to @mention for letting me test drive a car to the Apple store. Now lets hope that they can fix my phone!! #sxsw,Apple,Negative emotion,Negative,Apple,122
+1205,"So we get to see google fail at social on another day RT @mention Okay, no Google Circles debuting at #sxsw today",Google,Negative emotion,Negative,Google,113
+1232,Do i know u? Why u selling to me! Weve never talked. I now Hate your product! RT @mention check out Heyo 4 iPhone #SXSW #SXSWi,iPhone,Negative emotion,Negative,Apple,126
+1237,Apple pop up store... line is ridic. #sxsw  {link},Apple,Negative emotion,Negative,Apple,50
+1238,Trying to update software (4.0) on iPhone to download #sxsw app. But so far no luck - wonder if it's because phone is from Mexico.,UNKNOWN,Negative emotion,Negative,Apple,130
+1239,Def could use an iPad for  #SXSW today. Tweeting via iPhone sorta pretty much sux.,iPhone,Negative emotion,Negative,Apple,82
+1252,Dense una vuelta por #socialfuel #sxsw para ver la gran diferencia..RT @mention &quot;The revolution will be clumsily translated by Google.&quot;,Google,Negative emotion,Negative,Google,145
+1260,��� Why Are We Better Than #Google? ��_ {link} ��_ #edchat #musedchat #sxsw #sxswi #classical #newTwitter,UNKNOWN,Negative emotion,Negative,Google,105
+1273,"if #Apple weren't so cocky, perhaps a separate ipad2 store at #SXSW would have been a good idea. guess they don't need the extra marketing;)",Apple,Negative emotion,Negative,Apple,140
+1289,Disgusted with my iPhone's battery life. Already down to 11% at 3:30 pm while my blackberry is going strong. #Sxsw,iPhone,Negative emotion,Negative,Apple,114
+1300,"Just when you thought &quot;social&quot; couldn't get more overblown at #sxsw, Google may be announcing &quot;Circles&quot; today: {link}",Other Google product or service,Negative emotion,Negative,Google,137
+1309,@mention - #Apple is the classiest fascist company in America. Really elegant. #sxsw #rji,Apple,Negative emotion,Negative,Apple,89
+1339,"Lost iPad, corrupted iPhone, and crazy hotels. Good times. #SXSW @mention AUS Austin-Bergstrom {link}",iPhone,Negative emotion,Negative,Apple,101
+1342,"At midday, iPhone at mid-battery. This outlet, blocked by an immobile booth, serves no purpose but to taunt me. #SXSW {link}",iPhone,Negative emotion,Negative,Apple,124
+1378,SXSW 2011: Novelty of iPad news apps fades fast among digital delegates {link} via @mention #SXSW XIPAD,iPad or iPhone App,Negative emotion,Negative,Apple,103
+1402,So true!!! RT @mention 'Google lost its way by caring too much for the business vs. the users' - @mention #psych #sxsw,Google,Negative emotion,Negative,Google,118
+1422,SHITE APP. :( RT @mention New #UberSocial for #iPhone now in the App Store includes UberGuide to #SXSW sponso��_ (cont) {link},iPad or iPhone App,Negative emotion,Negative,Apple,126
+1453,I know it's #SXSW because my iPhone has started lying to me about its signal strength.,iPhone,Negative emotion,Negative,Apple,86
+1460,@mention 's nexus s on t-mobile is 10x more useful than my iphone4 on AT&amp;T at #sxsw. Is it because too many ppl have iPhone?,iPhone,Negative emotion,Negative,Apple,128
+1469,Hmm...can't get Twitter searches to update in Hootsuite or Tweetdeck on iPad. #SXSW,iPad or iPhone App,Negative emotion,Negative,Apple,83
+1492,@mention @mention @mention @mention Paper phones?  Means an iPad will likely be useless at #sxsw as well. #fail,iPad,Negative emotion,Negative,Apple,111
+1614,"@mention &quot;I've worked at Google for over 11 years, so I've seen a lot of evil.&quot; #qagb #sxsw",Google,Negative emotion,Negative,Google,101
+1686,At #sxsw #tapworthy iPad Design Headaches - avoiding the pitfalls of the new design challenges,iPad,Negative emotion,Negative,Apple,94
+1691,Disaster = iPhone died in middle of #sxsw ... can't function. heading to apple store.,iPhone,Negative emotion,Negative,Apple,85
+1699,"The iPad 1 is so March 11, 2011 4:59PM PST. #sxsw",iPad,Negative emotion,Negative,Apple,49
+1702,Not even 10am here in Austin and my iPhone batt is at 54% - shit #SXSW #notevenstartedyet,iPhone,Negative emotion,Negative,Apple,89
+1753,Apple is a more selfish brand than Microsoft but it has served its brand well.#sxsw,Apple,Negative emotion,Negative,Apple,83
+1788,@mention about to talk at #sxsw on mistakes building #Netflix #iphone app,UNKNOWN,Negative emotion,Negative,Apple,73
+1791,fucking mac users..... {link} #sxsw CWebb iPad Grant Hill,Apple,Negative emotion,Negative,Apple,57
+1836,Google Brain apologies for randy ads popping up with search results; algorithm skewed over weekend by randy queries from #SXSW attendees.,UNKNOWN,Negative emotion,Negative,Google,137
+1838,2+ hour wait at the makeshift Apple store for iPad 2. #fail #sxsw,Apple,Negative emotion,Negative,Apple,65
+1843,"Doesn't make sense to limit content to a specific platform, if it's on the iPad it should be on the web @mention interview w/ @mention #sxsw",iPad or iPhone App,Negative emotion,Negative,Apple,140
+1846,Guy Kawasaki &quot;I believe in God because there is no other explanation for the continuous survival of Apple over the years.&quot;. LOL #SXSW,Apple,Negative emotion,Negative,Apple,143
+1860,GroupMe talks about Apple App Store approval woes - there would be a big group of people that would agree with that! #whowillrise #sxsw,Apple,Negative emotion,Negative,Apple,135
+1861,It's not all Apple love here at #sxsw. Heard quite a bit of grumbling about holding back features on iPad 1 so people would have to buy v2.,Apple,Negative emotion,Negative,Apple,139
+1862,Why does all the #Android meetups here in #Austin are when I'm at work. Well at least there is the PS meetup #sxsw,Android,Negative emotion,Negative,Google,114
+1893,"Don't by an ipad 2 for the rear-facing camera, here is what you get: {link} #sxsw",iPad,Negative emotion,Negative,Apple,81
+1918,@mention Android needs a way to group apps like you can now do with iPad/iPod. #SXSW #hhrs,Android,Negative emotion,Negative,Google,90
+1926,Lonely Planet releases free Austin city guide iPhone app for #SXSW. Like there aren't enough apps cluttering up your handset.,iPad or iPhone App,Negative emotion,Negative,Apple,125
+1934,@mention another google social failure? #sxsw,Google,Negative emotion,Negative,Google,45
+1944,"Is there any way of deleting an app that won't stop loading on the iPhone? Draining my power, but no 'x' to cancel. Help me, #SXSW.",iPad or iPhone App,Negative emotion,Negative,Apple,131
+1952,A major #Apple iOS update the day before #SXSW? What genius project manager came up with that brilliant idea? #NoWhammies,Apple,Negative emotion,Negative,Apple,121
+1955,@mention Apple pop-up store at #sxsw was 5 blocks long! #BetterThingsToDo,Apple,Negative emotion,Negative,Apple,73
+1958,Queue at Apple Pop-Up Store at #sxsw still long!,UNKNOWN,Negative emotion,Negative,Apple,48
+1972,Come on #Apple! Why cant I have spell-checking without auto-correct? Must it be all or nothing? #Grrr #sxsw,Apple,Negative emotion,Negative,Apple,107
+1999,@mention arg. It won't load on me iPhone. Not via the app store or the site. Just trying to #sxsw it and am feelin so out of touch.,iPhone,Negative emotion,Negative,Apple,131
+2000,"had to charge the #iphone every 6hours here on #sxsw. running it on lowest possible screen brightness. apple, fix your basics!",iPhone,Negative emotion,Negative,Apple,126
+2026,Is the Flash discussion still relevant? #SXSW #tapworthy iPad design headaches,UNKNOWN,Negative emotion,Negative,Apple,78
+2029,"Guy just asked Google's Mayer: it can take a year to remove deadly routes from Google Maps, such as through Death Valley #SXSW",Other Google product or service,Negative emotion,Negative,Google,126
+2034,"NYT, WSJ at #SXSW ask: Is there a future for branded, native news apps on the iPad? {link} / no there is NOT!!",iPad or iPhone App,Negative emotion,Negative,Apple,110
+2135,"Marissa Mayer: Google maps should have better customer service, quicker responses. #sxsw #FH",Other Google product or service,Negative emotion,Negative,Google,92
+2146,Nothing says DOUCHE CAKE like walking around with a IPAD like it's an Iphone #sxsw,iPad,Negative emotion,Negative,Apple,82
+2149,really amazing to see so many people putting up with Apple's Notes app on the iPad at #SXSW,iPad or iPhone App,Negative emotion,Negative,Apple,91
+2150,really amazing to see so many people putting up with Apple's Notes app on the iPad at #SXSW:  {link},iPad or iPhone App,Negative emotion,Negative,Apple,100
+2170,@mention Best thing I've heard at #SXSW &quot;I gave my iPad 2 money to #Japan relief. I don't need an iPad 2.(@mention @mention #SXSWGOOD,iPad,Negative emotion,Negative,Apple,138
+2178,Too quotable --&gt; RT ���@mention &quot;Apple is the most elegant fascist company in America.&quot; #flip-board #SXSW,Apple,Negative emotion,Negative,Apple,118
+2181,Will somebody write an app that lets me consistently type &quot;SHIT&quot; on my goddamn iphone? Hey #sxsw ... jump on that.,iPhone,Negative emotion,Negative,Apple,124
+2204,"Should I buy an iPad for @mention at the makeshift #sxsw Apple Store on launch day? Fuck no, I respect him too much... #wwsxsw",iPad,Negative emotion,Negative,Apple,126
+2207,"The walk by Lady Bird Lake was lovely, but Google Maps travel times are not to be trusted. #SXSW",Other Google product or service,Negative emotion,Negative,Google,96
+2221,The iPad calendar = The Frankeninterface. Designed as one interface metaphor but uses another. #tapworthy #sxsw,UNKNOWN,Negative emotion,Negative,Apple,111
+2238,"#sxsw #enchantment: @mention &quot;Sell your dream. Steve Jobs doesn't say: iPhone is $188 of parts+AT&amp;T, made by ppl in suicidal Chinese",iPhone,Negative emotion,Negative,Apple,141
+2252,"Just launched the pop-up Apple Store at #SXSW. It's our &quot;vintage&quot; store format: Mostly iPods and snarky employees. Ah, the good old days.",Apple,Negative emotion,Negative,Apple,147
+2255,"Stupid technology! You always fail at important times! At #SXSW w/ an iPhone, laptop AND Blackberry and the only thing working is my pen.",iPhone,Negative emotion,Negative,Apple,137
+2261,It's official: people using the iPad 2 to take photos just look weird. #SXSW,iPad,Negative emotion,Negative,Apple,76
+2268,Pretty excited for my iPhone to stop working #sxsw #AT&amp;T,iPhone,Negative emotion,Negative,Apple,60
+2293,Trying 2 convince @mention 2 watch the launch of google Social network at #SXSW . I didn't know there was going to be comedy?!,Other Google product or service,Negative emotion,Negative,Google,126
+2302,The data crunch at #SXSW is crippling Google Voice. Back to regular texting we go...,Other Google product or service,Negative emotion,Negative,Google,84
+2304,"True,expect more insidious approaches, like Apple subscriptions. RT @mention {link} . Disgraceful.  #libraries #sxsw",Apple,Negative emotion,Negative,Apple,116
+2314,"#flipboard - when bldg app for AppStore, need wholistic mktg awareness, p.r. strategy to drive adoption Don't just rely on Apple. #rji #sxsw",UNKNOWN,Negative emotion,Negative,Apple,140
+2319,I composed a tweet so acerbic and cynical about ipad users that my phone crashed and dumped all my apps. #twitterpower #sxsw #imthatgood,iPad,Negative emotion,Negative,Apple,136
+2325,Google and Bing meet at #SXSW after their lovers tiff last month but it seems to have been disappointingly friendly {link},Google,Negative emotion,Negative,Google,122
+2326,Google and Bing page rank panel is ridiculously crowded. Is Al Franken or Justin Timberlake here? #sxsw {link},Google,Negative emotion,Negative,Google,110
+2333,Major iPad design flaw: the SXSW Go iPad app. It doesn't stay open when you switch apps! #ipaddesignheadaches #sxsw,iPad or iPhone App,Negative emotion,Negative,Apple,115
+2349,You should probably put that away... RT @mention at the Android party and kinda embarrassed by my iPhone #SXSW,iPhone,Negative emotion,Negative,Apple,110
+2364,"So Annoyed with #SXSW schedule app that has bad #ui for iPad. My fingers ain't THAT fat, y'all.",iPad or iPhone App,Negative emotion,Negative,Apple,95
+2385,The forbidden apple has been spoiled! Long live #samsung! They are rocking the #sxsw &amp; #sxswi's world.,Apple,Negative emotion,Negative,Apple,106
+2417,is a bit disappointed that the two iPad talks had so many overlapping examples #sxsw,Apple,Negative emotion,Negative,Apple,84
+2433,"Fest tip-don't be an iPhone douche.Put away your phone and talk to your fellow festgoers in lines, etc.All good people who love film. #sxsw",iPhone,Negative emotion,Negative,Apple,139
+2443,at the Android party and kinda embarrassed by my iPhone #SXSW,iPhone,Negative emotion,Negative,Apple,61
+2460,"Can anybody get the #SXSW mobile apps to work? I've downloaded Android, iPhone and BlackBerry and they all get stuck downloading on startup.",iPad or iPhone App,Negative emotion,Negative,Apple,140
+2468,Srsly love @mention @mention promo @mention Srsly hate that it excludes @mention Esp. since my iPad insists I'm at Disney #sxsw,iPad,Negative emotion,Negative,Apple,127
+2501,New Iphone autocorrect already tried to change &quot;coworkers&quot; to &quot;visigoths.&quot; Its going to be a long five days of #sxsw,iPhone,Negative emotion,Negative,Apple,136
+2505,The iPhone battery was not made for @mention #sxsw,iPhone,Negative emotion,Negative,Apple,50
+2523,New circle game? RT @mention  @mention Google (tries again) to launch new social network called Circles: {link} #sxsw,Other Google product or service,Negative emotion,Negative,Google,117
+2539,What Apple hopes you didn't notice about iPad 2 {link} #sxsw #sxswi #technology #mobile #prodmktg,iPad,Negative emotion,Negative,Apple,97
+2552,"the future is about networks, not just data. that's why google may not win long term #SXSW #web3 #SaatchiNY",Google,Negative emotion,Negative,Google,107
+2559,Why are we leaning on web conventions like small buttons on the iPad? #UXDes #sxsw,iPad,Negative emotion,Negative,Apple,82
+2585,LOL 2 true RT @mention It's official: people using the iPad 2 to take photos just look weird. #SXSW,iPad,Negative emotion,Negative,Apple,99
+2600,Hmm... the sxsw.com/interactive/live stream isn't ipad/mobile compatible. Maybe next year. #sxsw,iPad,Negative emotion,Negative,Apple,96
+2611,Would like to know which LBS app I downloaded has commandeered my iPhone's geolocation setting &amp; won't relinquish. #batterykiller #SXSW,iPad or iPhone App,Negative emotion,Negative,Apple,139
+2653,Getting ready for &quot;iPad design headaches&quot; #sxsw,iPad,Negative emotion,Negative,Apple,57
+2661,I never realized how shitty by iphone battery was until #sxsw I'm charging every few hours,iPhone,Negative emotion,Negative,Apple,90
+2670,Several years too late? I think the trend of social apps is over... @mention  #sxsw #google #circles #conversation @mention,iPad or iPhone App,Negative emotion,Negative,Apple,123
+2680,why the heck doesn't google maps use browser geo-location? am I missing it somehow? using chrome. @mention #sxsw #startupbus,Other Google product or service,Negative emotion,Negative,Google,124
+2682,Why the heck would anyone want Mozilla to switch to CrapKit (WebKit) when Gecko is good? Stupid Apple/Google bandwaggoners. #sxsw,Apple,Negative emotion,Negative,Apple,129
+2688,"Apple cited as the opposite of crowdsourcing - proprietary, Steve Jobs tells you what you want #csuitecsourcing #sxsw",Apple,Negative emotion,Negative,Apple,117
+2690,just walked by the line for the iPad 2. Bahahahaha! at least 5 blocks long. #fail #SXSW,iPad,Negative emotion,Negative,Apple,87
+2700,Just walked past the supposed #Apple #SxSW temp store downstairs @mention and the apple cult was outside taking photos on iphones.,Apple,Negative emotion,Negative,Apple,130
+2734,"Google prefers to launch hyped new Social features with meh, not bang? via TC {link} #SXSW",Google,Negative emotion,Negative,Google,90
+2735,"Like in Vegas during #CES, the iPhone is best used as a hand warmer at #SXSW.",iPhone,Negative emotion,Negative,Apple,77
+2747,Note to self: downside of tweeting on an white iPad 2 expect to be mocked. @mention #sxsw,iPad,Negative emotion,Negative,Apple,89
+2762,Google seems to have sabotaged my YouTube account - WTF? Are they trying to OWN the entire online ecosystem?  VERY BAD FORM #SXSW,Google,Negative emotion,Negative,Google,129
+2772,"To my friends at #SXSW who think I abandoned you, in reality I just didn't have any means of communication, my iPhone stopped working. #fail",iPhone,Negative emotion,Negative,Apple,140
+2774,What happened to the Taxi Magic iPhone app? Now all I can do is call the cabs via it #sxsw,iPad or iPhone App,Negative emotion,Negative,Apple,90
+2798,"Ha! RT @mention Google guy at #sxsw talk is explaining how he made realistic Twitter bots as an experiment. Gee, thanks for doing that.",Google,Negative emotion,Negative,Google,135
+2834,Oh no utter @mention #sxsw fail. Can't see the letter of the ballroom in the iPhone app as it is too long and doesn't wrap /cc @mention,iPad or iPhone App,Negative emotion,Negative,Apple,135
+2843,Gamechanger like Wave and Buzz no doubt RT @mention Google to Launch Major New Social Network Called Circles {link} #sxsw,Other Google product or service,Negative emotion,Negative,Google,121
+2845,It is never more apparent than at #sxsw how nice it would be if apple made stuff w/ removable batteries. #alwayshavingtoplugin #gsdm,Apple,Negative emotion,Negative,Apple,132
+2864,iPhone users at #SXSW - any of you have your GPS stuck on? Is one of the new geo app updates doing it? FourSquare/gowalla?,iPhone,Negative emotion,Negative,Apple,122
+2880,Apple takes bruises from panelists. Not well regarded in sustainability space.  Corporate Sustainability Reporting and Transparency.  #SXSW,Apple,Negative emotion,Negative,Apple,139
+2882,Apple likes it if you pay them. That's what Apple likes. - Barry Diller #SXSW,Apple,Negative emotion,Negative,Apple,77
+2884,The dailies on iPad are going to evolve...they're still impossible to download (20 MB and up downloads) #sxsw,UNKNOWN,Negative emotion,Negative,Apple,109
+2894,google presentation by Mayer is a sales pitch #fail #sxsw,Google,Negative emotion,Negative,Google,57
+2898,Sooo... Design for iPads session is just an hour long ad for me to buy and iPad and apps? #amismarternow? #sxsw,UNKNOWN,Negative emotion,Negative,Apple,111
+2899,"In iPad Design Headaches: Take Two Tablets, Call Me in the AM panel - excited to hear @mention live! #sxsw",iPad,Negative emotion,Negative,Apple,106
+2904,It was awesome to hear Marissa Mayer acknowledge that Google Maps needs to increase support for its product b/c of incorrect routes. #SXSW,Other Google product or service,Negative emotion,Negative,Google,138
+2908,The SXXpress line is almost as long as the Apple line. #sxsw {link},UNKNOWN,Negative emotion,Negative,Apple,67
+2970,Novelty of #iPad news #apps fades fast among digital delegates - Aron Pilhofer of the NYT &amp; Khoi Vinh {link}  #media #SXSW,iPad or iPhone App,Negative emotion,Negative,Apple,126
+2973,Outside of 9:30 panels which 75% of people skip I can barely get anything to work on my iPhone. #sxsw needs to shrink by 10k people.,iPhone,Negative emotion,Negative,Apple,132
+2977,Novelty of iPad news apps fades fast among #SXSW delegates - by @mention {link},iPad,Negative emotion,Negative,Apple,79
+2985,"Pollak, if you're having so much trouble the don't sell through apple...duh #sxswbigbrands #sxsw",Apple,Negative emotion,Negative,Apple,96
+2997,Turning off Twitter until #sxsw is over and #ipad is forgotten.,iPad,Negative emotion,Negative,Apple,63
+2999,kicking off w/ @mention talking iPad design headaches #sxsw,iPad,Negative emotion,Negative,Apple,59
+3000,Why is wifi working on my laptop but neither that nor 3g on my iphone? grrr. #sxsw,iPhone,Negative emotion,Negative,Apple,82
+3029,"@mention for the life of me, I can't get my iPad to sync all the sessions, only partial. iPhone is fine, iPad is deciding what it wants. #sxsw",iPad,Negative emotion,Negative,Apple,142
+3042,Cab ride from hell to get to Apple store at mall. They were sold out. Getting dinner then have to figure how how to get back to hotel. #sxsw,Apple,Negative emotion,Negative,Apple,140
+3055,Navigating a crowded party sucks. But its way worse when everyone walks around with their face in their iPhone. #sxsw #adpeopleproblems,iPhone,Negative emotion,Negative,Apple,135
+3067,Best thing I've heard this weekend at #SXSW &quot;I gave my iPad 2 money to #Japan relief. I don't need an #iPad 2.&quot; @mention @mention,iPad,Negative emotion,Negative,Apple,139
+3111,@mention glad I've not got a faulty iPhone then. That'll go down well for #sxsw everyone's battery dies 5 times quicker. Hope @mention knows.,iPhone,Negative emotion,Negative,Apple,141
+3124,"&quot;google has too many products, and needs to condense them&quot; #sxsw  (FYI - they have NINE mobile products)",Google,Negative emotion,Negative,Google,114
+3127,"&quot;Google looks for technical solutions, which why they're not great at community because it's a human solution.&quot; #SXSW",Google,Negative emotion,Negative,Google,127
+3137,&quot;Google to Launch Major New Social Network.&quot; really dont need another social network...{link} #sxsw,Other Google product or service,Negative emotion,Negative,Google,109
+3142,"IPad Design Headaches. interface metaphor. Looks like a book, make it behave like a book. Simple stuff, but often forgotten. #SXSW",iPad,Negative emotion,Negative,Apple,130
+3143,iPad design malady: iPad Elbow - I hate the iPad's back button with the heat of a million suns. #tapworthy #sxsw,iPad,Negative emotion,Negative,Apple,112
+3151,I didn't go to #sxsw because I'm still using an iPhone 3G. #oldschool #novideo #veryslow,iPhone,Negative emotion,Negative,Apple,88
+3155,@mention good job @mention #sxsw! went home &amp; watched season 1 of the guild =D. sucks that your tweet abt the iphone hijack is a top tweet lol,iPhone,Negative emotion,Negative,Apple,146
+3161,My #sxsw Google calendar is getting a little out of control,Other Google product or service,Negative emotion,Negative,Google,59
+3163,@mention Google Circles will be Lame. #sxsw &lt;3,Other Google product or service,Negative emotion,Negative,Google,49
+3172,I think #Google lost their way by caring too much about their business (instead of their users) Tim O'Reilly #sxsw #pnid,Google,Negative emotion,Negative,Google,120
+3180,Who uses Google TV in this room? Nobody raises a hand in a packed room at the #socialviewing session at #sxsw,UNKNOWN,Negative emotion,Negative,Google,109
+3218,"Lunch with @mention at #CNNGrill. View from the HTML5 dev trenches: Android is painful, iOS is sleek (for what @mention is doing) #sxsw",Android,Negative emotion,Negative,Google,135
+3220,Open graph did repair the damage google did to the title tag. #sxsw #microformats,Google,Negative emotion,Negative,Google,81
+3230,@mention Ha! I feel like the only person at #sxsw with a non-Mac/iPad!,Apple,Negative emotion,Negative,Apple,70
+3235,iPad2 in hand thanks to the Popup Apple Store at #SXSW. First impression: I may have a lemon. Backlight has some bleed thru at the bottom.,iPad,Negative emotion,Negative,Apple,138
+3268,"Beware, the android #sxsw app for schedules is completely innacurate. Just walked to the hyatt for no reason #sxswfail",Android App,Negative emotion,Negative,Google,118
+3275,Data is the new oil. (Companies like Google and Facebook have monopoly and terms of service to be wary of) - @mention #sxsw,Google,Negative emotion,Negative,Google,123
+3295,Kara Swisher: Apple is the most stylish fascist company in America #sxsw,Apple,Negative emotion,Negative,Apple,72
+3322,"Well, Cashmore just gave the new iPad a crushing non-endorsement. #sxsw #checkins #ouch",iPad,Negative emotion,Negative,Apple,87
+3325,"RIP my iPhone 4: June 2010 -  #SXSW. You survived a severe drop, but could not evade drowning. {link}",iPhone,Negative emotion,Negative,Apple,101
+3326,"95% of iPhone and Droid apps have less than 1,000 downloads total. #SXSW",Android App,Negative emotion,Negative,Google,72
+3369,Tomorrow I go back to the Apple store... *sigh* #sxsw,Apple,Negative emotion,Negative,Apple,53
+3371,"@mention I hate typing on an iPad. So, yeah, THE Ken Calhoun is this man, the real deal! And I am bringing my laptop to #sxsw Sun.",iPad,Negative emotion,Negative,Apple,130
+3375,@mention I hope this year's festival isn't as crashy as this year's iPhone app. #sxsw,iPad or iPhone App,Negative emotion,Negative,Apple,85
+3381,"@mention I meant iTunes doesn't work for me (IE: Don't run Apple software, even if it would run on my Ubuntu desktop).  Not just #SXSW dl",Other Apple product or service,Negative emotion,Negative,Apple,137
+3382,@mention I outdid myself this time with the tech #FAIL. iPhone=broken. Might be the worst thing that can ever happen at #sxsw,iPhone,Negative emotion,Negative,Apple,125
+3401,@mention I'm glad I don't have an iPad 2 ... I think. #sxsw,iPad,Negative emotion,Negative,Apple,59
+3402,@mention I'm going to #SXSW let's meet up! I can't use @mention yet because I have an Android phone but show me how it works!,UNKNOWN,Negative emotion,Negative,Google,125
+3404,@mention I'm guessing there will not be an #Android app in time for #SXSW?,Android App,Negative emotion,Negative,Google,74
+3413,"Totalitarian thought in action: People worldwide come to Austin, TX for #SXSW and decide to spend their time in line at an Apple Store.",Apple,Negative emotion,Negative,Apple,135
+3420,It is ridiculous to see someone taking a photo during a session with their iPad. Cannot wait to see concert use. #SXSW #Silly,iPad,Negative emotion,Negative,Apple,125
+3442,"@mention If I were you, I'd stay away from the Apple Store tomorrow #sxsw",Apple,Negative emotion,Negative,Apple,73
+3444,@mention if it makes you feel better google-wannabe fanbois were acting like giggling schoolgirls in front of Marissa Mayer y'day #SXSW,UNKNOWN,Negative emotion,Negative,Google,135
+3448,"Related: if u have Verizon, u will do better. #SXSW bandwidth issue. My BlackBerry always tweeted when my iPhone dawdled. #wjchat",iPhone,Negative emotion,Negative,Apple,129
+3470,Farmers like Blackberry smart phones because iPhone's &quot;don't last long on the farm&quot;. #mobilefarm #sxsw,iPhone,Negative emotion,Negative,Apple,112
+3473,Tablets like the iPad and Xoom where touch emulates a mouse-click/keyboard input means we're not there yet. #sxsw #gswsxsw #futureoftouch,iPad,Negative emotion,Negative,Apple,137
+3474,Techie Fail RT @mention One #SXSW panel moderator who is from Europe says he spent $3000 in roaming charges on his iPhone at SXSW 2010.,iPhone,Negative emotion,Negative,Apple,135
+3480,Content will move back to the browser. Why replicate the work on an iPad when u can press one button? @mention @mention #sxsw,iPad,Negative emotion,Negative,Apple,125
+3512,Mad mad lines still at the #SXSW Apple pop up store here in Austin #ipad2,Apple,Negative emotion,Negative,Apple,73
+3541,I'm thinking that I may actually have to take my laptop to #sxsw. The iPad alone may not be enough on this trip.,iPad,Negative emotion,Negative,Apple,112
+3549,Been playing w/ the Windows7 phone here at #SXSW.The animation is better than an iphone&amp; it does look very interesting!,UNKNOWN,Negative emotion,Negative,Apple,123
+3563,"@mention Instagram, but it's iPhone only at the moment mister &quot;Has to be cool and different and get an EVO&quot; that SUCKS. #sxsw",iPhone,Negative emotion,Negative,Apple,135
+3589,Hey @mention got invited to a new group at #SXSW and your Android app keeps crashing when I try to join! WTF? #sxswfail,Android App,Negative emotion,Negative,Google,119
+3609,hey @mention twitter needs a way for us in disaster areas to filter out things like #sxsw and #ipad too because right now we really don't care,iPad,Negative emotion,Negative,Apple,142
+3615,Hey @mention your app won't download from the Android app market. Just a heads up #SXSW,Android App,Negative emotion,Negative,Google,87
+3632,Guy with iPad 2 taking photos of @mention slides. Awkward! #sxsw,iPad,Negative emotion,Negative,Apple,64
+3634,"@mention iPad app getting panned for design trumping content, and rightfully so. #SXSW",iPad or iPhone App,Negative emotion,Negative,Apple,86
+3653,Fuck the iphone! RT @mention New #UberSocial for #iPhone now in the App Store includes UberGuide to #SXSW ... {link},iPhone,Negative emotion,Negative,Apple,116
+3663,@mention is about to talk about the mistakes he made building Netflix for the iPhone. #SXSW #netflixiphone,iPad or iPhone App,Negative emotion,Negative,Apple,106
+3674,"Bad news is it costs $1,000? RT @mention Louis Vuitton has an iPhone app. Called Amble #digitalluxury #sxsw",UNKNOWN,Negative emotion,Negative,Apple,107
+3678,"My row this morning two people hand writing notes, one person on a Blackberry and me on a #pc - proof Apple isn't a monopoly at #sxsw",Apple,Negative emotion,Negative,Apple,133
+3698,Many publishers' iPad content enhancements are like th worst David Foster Wallace footnotes- kinda interesting but mostly irrelevant. #sxsw,iPad or iPhone App,Negative emotion,Negative,Apple,139
+3700,iPhone crisis at #sxsw Phone is stuck on silver logo screen. Has been for last 15 minutes. Help?,iPhone,Negative emotion,Negative,Apple,96
+3717,"I cant wait to give the SAMSUNG people a demo of my horrible, terrible Google Nexus S phone at #sxsw",Google,Negative emotion,Negative,Google,100
+3718,"And now, it won't pull from website to iPhone. Awesome. Glad I wasted that time. #festivalgenius #notsomuch #sxsw",iPhone,Negative emotion,Negative,Apple,113
+3722,You know it's bad with you have to un-RSVP just to see/use your calendar.  #iphone #sxsw #FML,UNKNOWN,Negative emotion,Negative,Apple,93
+3724,@mention It's the next step of Google becoming Skynet. #SXSW,Google,Negative emotion,Negative,Google,60
+3754,The Netflix iPhone app was built to a &quot;ridiculous deadline&quot;. Big mistake on the tech's part to agree to it #sxsw,iPad or iPhone App,Negative emotion,Negative,Apple,122
+3787,First talk of the day : iPad design headaches. #SXSW,iPad,Negative emotion,Negative,Apple,52
+3796,Josh Clark:  I hate the iPad's back button with the heat of a million suns.  #tapworthy #SXSW,iPad,Negative emotion,Negative,Apple,93
+3816,"Google takes the mantra of 'Dont be evil' to heart, yet their pride in their products make them guilty of the 7th deadly sin, Superbia #sxsw",Google,Negative emotion,Negative,Google,140
+3853,Why is all the prizes at #SXSW apple products? Sigh,Apple,Negative emotion,Negative,Apple,51
+3880,Cant handle #SxSW traffic? RT @mention Dear @mention your own app for iPhone has sucked all day. #crashing,iPad or iPhone App,Negative emotion,Negative,Apple,106
+3883,"This double buzzing issue with iPhone iOS 4.3 is getting annoying. In other news, an iPhone may fly across the room at #GR2L2 #SXSW",iPhone,Negative emotion,Negative,Apple,131
+3893,&quot;Apple is the most elegant fascist company in America.&quot; #flipboard #SXSW,Apple,Negative emotion,Negative,Apple,82
+3895,Have Google launched their next social media flop yet? #sxsw,Other Google product or service,Negative emotion,Negative,Google,60
+3896,&quot;Apple likes it if you pay them. That's what Apple likes.&quot; - Barry Diller #SXSW (@mention ACC - Ballroom D) [pic]: {link},Apple,Negative emotion,Negative,Apple,131
+3923,"Dear google, your photobooth sucks. #sxsw",Other Google product or service,Negative emotion,Negative,Google,41
+3924,&quot;Apple: the most elegant fascist corporation in America today.&quot; -- Kara Swisher #sxsw #flipboard,Apple,Negative emotion,Negative,Apple,106
+3929,About to learn all about design headaches for iPad #sxsw,iPad,Negative emotion,Negative,Apple,56
+3937,"Barry Diller says iPad-only magazines like The Daily don't make sense, {link} #sxsw",iPad or iPhone App,Negative emotion,Negative,Apple,83
+3938,Barry Diller says that you're silly if you write content for one form factor only. Apple like it because they get money #SXSW,Apple,Negative emotion,Negative,Apple,125
+3943,Barry Diller's pragmatic and straight forward which is nice. Looks like he wants us to grab pitchforks vs. Apple #SXSW,Apple,Negative emotion,Negative,Apple,118
+3981,Google will eat itself #rhizome #sxswk #sxsw  @mention Hilton {link},Google,Negative emotion,Negative,Google,68
+3987,"Google will not launch Facebook competitor Circles @mention #sxsw today as thought, creeper half-friends the world over disappointed.",Google,Negative emotion,Negative,Google,133
+3990,"And it will suck. RT @mention RT @mention Google will preview major new social service, Circles, at #sxsw today {link}",Other Google product or service,Negative emotion,Negative,Google,118
+3992,Look at all these people at #sxsw with iPad 1's. No shame.,iPad,Negative emotion,Negative,Apple,58
+4002,I feel silly but cannot figure out how to update the #sxsw mobile app on android. It doesn't seem to have &quot;options&quot; (bottom left button)?,UNKNOWN,Negative emotion,Negative,Google,147
+4005,"I was really hoping #SXSW would bring an Android version of @mention Oh well, maybe someday...a long time from now.",Android App,Negative emotion,Negative,Google,115
+4006,"Will overload of info delivered by Google kill discovery? Google says ppl won't lose curiosity, but I wonder...We need serendipity. #SXSW",Google,Negative emotion,Negative,Google,137
+4024,@mention love what y'all do at #SXSW. How come I'm getting login authorization error almost every time I open my app on iPhone?,iPad or iPhone App,Negative emotion,Negative,Apple,127
+4034,"After failure of Google buzz, Google Latitude, now Google Circle! Seriously Google needs to concentrate more on search! #FAIL #google #sxsw",Google,Negative emotion,Negative,Google,139
+4040,"You finally get everyone to buy in to Facebook and then Google introduces Circle. No fair. Stop with all the innovation, people #sxsw",UNKNOWN,Negative emotion,Negative,Google,133
+4041,"You finally get everyone to buy in to Facebook and then Google introduces Circles. No fair. Stop with all the innovation, people #sxsw",Other Google product or service,Negative emotion,Negative,Google,134
+4137,@mention Might need to go to Apple today. I think my &quot;S&quot; &quot;X&quot; and &quot;W&quot; keys are worn out. #SXSW,Apple,Negative emotion,Negative,Apple,123
+4140,just got mine &amp; i disagree RT  @mention Peter Cashmore on iPad 2 it's only a minor improvement Not worth it unless you've $ 2 burn #SXSW,iPad,Negative emotion,Negative,Apple,140
+4169,"Nope, seems no Google Circles launch today: {link} #sxsw",Other Google product or service,Negative emotion,Negative,Google,56
+4176,@mention my #twitter iPhone app has been down for a few days. Heading to #SXSW and want to tweet a lot - can you help?,iPad or iPhone App,Negative emotion,Negative,Apple,118
+4185,@mention my iPhone crashed &amp; I had to do a fresh restore &amp; lost my fave Dali/canvas pak? Can I ever get it back? Also are you @mention #sxsw?,iPhone,Negative emotion,Negative,Apple,149
+4194,"Ahhh, darn :( RT @mention @mention @mention according to @mention Google has confirmed it is not launching at #SXSW, if at all.",Other Google product or service,Negative emotion,Negative,Google,127
+4220,"Please can I hear more people talk about the iPad 2, preferrably with more #sxsw hashtags -  I really have a deficit of this in my life!",iPad,Negative emotion,Negative,Apple,136
+4227,"this woman is great - fessing up to issues, admitting google could do better #sxsw",Google,Negative emotion,Negative,Google,82
+4246,Sitting on the floor behind a guy who's fondling his new iPad 2 in a very disturbing way. #sxsw,iPad,Negative emotion,Negative,Apple,95
+4278,Grrr..plancast stuff exported to Google calendar in San Diego/pacific time did not shift to central tme #wack #sxsw,Google,Negative emotion,Negative,Google,115
+4293,"line around the corner for #iPad2 at #sxsw, i say wait on it. I've already got two cameras on my #iPhone sorry #apple",iPad,Negative emotion,Negative,Apple,117
+4298,"Bereft wanderer. White cord, limp. Lifeless. There is no outlet for your iPhone here. #sxsw #poetry",iPhone,Negative emotion,Negative,Apple,99
+4306,Man panhandling for an iPad 2 at SXSW. What�۪s the world coming to? #iPad #apple #tablet #SXSW,iPad,Negative emotion,Negative,Apple,94
+4314,This iPhone #SXSW app would b pretty awesome if it didn't crash every 10mins during extended browsing. #Fuckit #Illmakeitwork,iPad or iPhone App,Negative emotion,Negative,Apple,125
+4317,"SXSW iPhone app is awesome, but iPad app crashes every time. #sxsw",iPad or iPhone App,Negative emotion,Negative,Apple,66
+4330,Does anyone have an address for the yeasayer concert tonight? Google maps is failing. #sxsw,Other Google product or service,Negative emotion,Negative,Google,91
+4340,I asked one of the booth people if #apple paid every single booth here to show their product on iPad2s. She said no. #idontbelieve #sxsw,Apple,Negative emotion,Negative,Apple,136
+4361,"the internet blurs, {link} the iPad fades, {link} ��� @mention at #SXSW",iPad,Negative emotion,Negative,Apple,71
+4385,interesting &quot;@mention &quot;Google looks for technical solutions which why they're not great @mention community because its a human solution #SXSW�۝,Google,Negative emotion,Negative,Google,153
+4393,My tweeting from #sxsw been pretty non existent today thanks to the @mention iPhone app #fail - Hootsuite is the epic replacement! #owllove,iPad or iPhone App,Negative emotion,Negative,Apple,139
+4414,I was going to mock the tech-nerds for coming to #sxsw only to stand in a 4-hour line for an iPad 2. Then I remembered me and horror movies.,iPad,Negative emotion,Negative,Apple,140
+4418,Is starting to think my #blackberry is more like the #abacus of phones. Damn u #iphone. #sxsw (I just wanted # abacus),iPhone,Negative emotion,Negative,Apple,118
+4430,"@mention Nice #SXSW song @mention  Don�۪t hack, Write Rails. Under deliver, over sell. Work for Google. {link}",Google,Negative emotion,Negative,Google,110
+4481,"@mention No, no, no .. I wouldn't buy an iPad 2. I'd wait for the iPad 3 with teleporting capabilities. #sxsw",iPad,Negative emotion,Negative,Apple,109
+4482,This technology couldn't happen on an iPhone' - Nokia #pushsnowboarding #sxsw,iPhone,Negative emotion,Negative,Apple,77
+4497,There is nothing sillier than watching people record video with an ipad. #SXSW,iPad,Negative emotion,Negative,Apple,78
+4499,Agreed ��� Novelty of #iPad news #apps fades fast among digital delegates ��� {link}  #media #SXSW (via @mention,iPad,Negative emotion,Negative,Apple,112
+4522,In the Consumerist's &quot;Worst Company in America 2011&quot; tournament bracket - apple is pitted against microsoft in the first round #sxsw,Apple,Negative emotion,Negative,Apple,142
+4534,I fully anticipate that every geek-douche will be toting an iPad 2 at #SXSW. These people are also why it's not worth going.,iPad,Negative emotion,Negative,Apple,124
+4535,I am inventing a &quot;dislike&quot; button for #iPad 2 lines. {link} #SXSW,iPad,Negative emotion,Negative,Apple,75
+4569,Grrrr @mention not muting #sxsw as thought on web or iphone :(,iPhone,Negative emotion,Negative,Apple,62
+4584,"Organic unveils BroadFeed, social news app for ipad. Audience gets up and heads for the door. #sxsw",iPad or iPhone App,Negative emotion,Negative,Apple,99
+4602,Mayer also admits that Google needs to &quot;step up&quot; its customer support for Google Maps. #sxsw,Other Google product or service,Negative emotion,Negative,Google,102
+4620,"Decided to go to LA instead of #SXSW, because my AT&amp;T iPhone would be about as useful as a brick in Austin.",iPhone,Negative emotion,Negative,Apple,111
+4624,Heading to iPad Design Headaches in Hilton - Salon J #sxsw,UNKNOWN,Negative emotion,Negative,Apple,58
+4637,Excited to meet the @mention at #sxsw so I can show them my Sprint Galaxy S still running Android 2.1.   #fail,Android,Negative emotion,Negative,Google,110
+4641,iPhone too old for #SXSW schedule app. Oh noes.  #rejection,iPhone,Negative emotion,Negative,Apple,59
+4655,There's no way that you an call the iPad count at #sxsw reasonable. I think there's one for every 2 people.,iPad,Negative emotion,Negative,Apple,107
+4667,Apple autocorrect is so weird. Ogilvy autocorrects to idiocy. #ogilvynotes #sxsw :),Apple,Negative emotion,Negative,Apple,83
+4676,"Google product showcases never feel that cool. No price tag, brand equity, wow factor attached. #sxsw marissa mayer",Google,Negative emotion,Negative,Google,115
+4689,Cashmere of Mashable: Thinks the iPad 2 is not a huge step up. Now waiting for the Apple PR team to parachute into the #SXSW session.,iPad,Negative emotion,Negative,Apple,133
+4690,"Andrew K of PRX equates the homogeneity of the Apple ecosystem w predictability, vs Android's wild west. #imaconf #sxsw #drumbeat #MoJo",UNKNOWN,Negative emotion,Negative,BOTH,135
+4700,Aron Pilhofer of the New York Times and design guru Khoi Vinh express scepticism about iPad news apps at #SXSW {link},iPad or iPhone App,Negative emotion,Negative,Apple,117
+4827,RT @mention 'Google lost its way by caring too much for the business vs. the users' - @mention #psych #sxsw,Google,Negative emotion,Negative,Google,107
+4829,RT @mention 'This technology couldn't happen on an iPhone' - Nokia #pushsnowboarding #sxsw,iPhone,Negative emotion,Negative,Apple,90
+4846,MT @mention (Swisher calls Apple &quot;the classiest fascist company in America&quot; #sxflip #sxsw,Apple,Negative emotion,Negative,Apple,99
+4858,RT @mention @mention  - False Alarm: Google Circles Not Coming Now���and Probably Not Ever? - {link} #Google #Circles #Social #SXSW,UNKNOWN,Negative emotion,Negative,Google,131
+4901,"RT @mention @mention iPad app getting panned for design trumping content, and rightfully so. #SXSW",iPad or iPhone App,Negative emotion,Negative,Apple,98
+4914,RT @mention @mention Peter Cashmore on the iPad 2: it's only a minor improvement. Not worth it unless you have money to burn. #SXSW,iPad,Negative emotion,Negative,Apple,131
+4933,RT @mention &quot;@mention - #Apple is the classiest fascist company in America. Really elegant.&quot; #sxsw #rji,Apple,Negative emotion,Negative,Apple,113
+4937,RT @mention &quot;Apple is the most elegant fascist company in America.&quot; #flipboard #SXSW,Apple,Negative emotion,Negative,Apple,94
+4939,RT @mention &quot;Apple: the most elegant fascist corporation in America today.&quot; -- Kara Swisher #sxsw #flipboard,Apple,Negative emotion,Negative,Apple,118
+4949,"RT @mention &quot;Google looks for technical solutions, which why they're not great at community because it's a human solution.&quot; #SXSW",Google,Negative emotion,Negative,Google,139
+4951,RT @mention &quot;I believe in God because there is no other explanation for Apple's continued existence.&quot; Guy Kawasaki #enchantment #sxsw,Apple,Negative emotion,Negative,Apple,143
+4957,"RT @mention &quot;multiple approaches to monetization&quot; re: iPhone game dev &quot;but ads would cheapen our product&quot; ok, good luck with that #sxsw",iPad or iPhone App,Negative emotion,Negative,Apple,155
+4967,RT @mention &quot;There's a reason why Google isn't in social -- they are too technical.&quot; #sxsw #comments,Google,Negative emotion,Negative,Google,110
+4994,RT @mention #futuremf Trajan: Google has destroyed the &lt;title&gt; tag - websites SEO them. Open Graph Protocol added a clean title tag instead #sxsw,Google,Negative emotion,Negative,Google,151
+5038,RT @mention #sxsw #csr reporting: Janecek: Microsoft gives $ to charity. Apple gives nothing. Everyone in room has iPhone. What drives that decision?,Apple,Negative emotion,Negative,Apple,149
+5041,RT @mention #sxsw #enchantment: @mention &quot;No one uses Windows voluntarily.&quot; &quot;Apple is greatest collection of egomaniacs in history.&quot; haha,Apple,Negative emotion,Negative,Apple,157
+5050,RT @mention #SXSW 2011: The Google and Bing smackdown in all its bloody banality (Guardian) {link} via @mention,Google,Negative emotion,Negative,Google,111
+5072,RT @mention #sxsw ipad store sold out of everything except 64gig wifi only white,iPad,Negative emotion,Negative,Apple,80
+5084,"RT @mention #sxsw rumor mill: iPad 3 will have between 6 and 15 cameras, slightly thinner rare earths case, and &quot;different&quot; but still smudgy screen.",iPad,Negative emotion,Negative,Apple,158
+5090,RT @mention #sxsw WAZE {link} is duking it out with google re: personalized mapping experience. Friendly &quot;panel crashing&quot;,Google,Negative emotion,Negative,Google,131
+5095,RT @mention #SXSW: iPad Design Headaches (Take Two Tablet and Call Me in the Morning) {link},iPad,Negative emotion,Negative,Apple,92
+5097,RT @mention #UXdes @mention is glad there are no standard #iPad navigation tools. She might be the only one! #SXSW,iPad,Negative emotion,Negative,Apple,114
+5138,"Diabetes on a plate. Thanks Google, already have that covered. {link} #sxsw",Google,Negative emotion,Negative,Google,75
+5146,RT @mention Agreed ��� Novelty of #iPad news #apps fades fast among digital delegates ��� {link}  #media #SXSW (via @mention,iPad or iPhone App,Negative emotion,Negative,Apple,124
+5156,"RT @mention And it will suck. RT @mention RT @mention Google will preview major new social service, Circles, at #sxsw today {link}",Other Google product or service,Negative emotion,Negative,Google,130
+5175,RT @mention Anyone who was going to buy a new iPad should donate to #Japan #tsunami victims instead. #sxsw,iPad,Negative emotion,Negative,Apple,106
+5179,"RT @mention Apparently, if you Google &quot;ad preferences&quot; and you'll see what Google thinks you'll like. #seenocreepy #sxsw #PNID",Google,Negative emotion,Negative,Google,136
+5185,RT @mention Apple autocorrect is so weird. Ogilvy autocorrects to idiocy. #ogilvynotes #sxsw :),Apple,Negative emotion,Negative,Apple,95
+5197,"RT @mention Apple is &quot;the classiest, fascist company in America,&quot; says @mention #sxsw",Apple,Negative emotion,Negative,Apple,95
+5251,RT @mention Apple...&quot;the classiest fascist company in America&quot; Kara Swisher #sxsw,Apple,Negative emotion,Negative,Apple,91
+5334,RT @mention Best thing I've heard this weekend at #SXSW &quot;I gave my iPad 2 money to #Japan relief. I don't need an iPad 2.&quot; (@mention,iPad,Negative emotion,Negative,Apple,142
+5335,RT @mention Best thing I've heard this weekend at #SXSW &quot;I gave my iPad 2 money to #Japan relief. I don't need an iPad 2.&quot; (@mention @mention,iPad,Negative emotion,Negative,Apple,151
+5336,RT @mention Best thing I've heard this weekend at #SXSW &quot;I gave my iPad 2 money to #Japan relief. I don't need an iPad 2.&quot; @mention,iPad,Negative emotion,Negative,Apple,141
+5337,RT @mention Best thing I've heard this weekend at #SXSW &quot;I gave my iPad 2 money to #Japan relief. I don't need an iPad 2.&quot; &lt;Amen!&gt;,UNKNOWN,Negative emotion,Negative,Apple,146
+5338,RT @mention Best thing I've heard this wknd @mention #SXSW &quot;I gave my iPad 2 money 2 #Japan relief. I don't need iPad 2&quot;(@mention @mention),UNKNOWN,Negative emotion,Negative,Apple,149
+5352,RT @mention Brought up how Google Maps had rerouted all images of JCPenney to images of Macys or trashy restraunts. They had no comment #uosxsw #sxsw,Other Google product or service,Negative emotion,Negative,Google,149
+5428,"RT @mention Decided to go to LA instead of #SXSW, because my AT&amp;T iPhone would be about as useful as a brick in Austin.",iPhone,Negative emotion,Negative,Apple,123
+5429,RT @mention Deleting the #sxsw iPhone app!  {link},iPad or iPhone App,Negative emotion,Negative,Apple,50
+5430,"RT @mention DELICIOUSLY IRONIC GOOGLE PRIVACY PARTY MADE WHOLE BY &quot;BANKING CARTEL, MILITARY-SCIENTIFIC DICTATORSHIP TAKEOVER&quot; CAB RANT! #SXSW",Google,Negative emotion,Negative,Google,151
+5446,"RT @mention Diller on Google TV: &quot;The first product wasn't good. It wasn't a consumer product, basically.&quot; #sxsw #diller",Other Google product or service,Negative emotion,Negative,Google,130
+5469,RT @mention Epic. There's just one guy waiting in line for the iPad 2 in Austin at SXSW. {link} #sxsw #ipad #ipad2,iPad,Negative emotion,Negative,Apple,114
+5480,"RT @mention False Alarm: Google Circles Not Coming Now, And Probably Not Ever {link} - so much for reports that it would unveil at #sxsw",Other Google product or service,Negative emotion,Negative,Google,136
+5484,"RT @mention Fest tip-don't be an iPhone douche.Put away your phone and talk to your fellow festgoers in lines, etc.All good people who love film. #sxsw",iPhone,Negative emotion,Negative,Apple,151
+5487,"RT @mention Finally fed up with #AngryBirds, Julian screamed &quot;I got your no-fly zone right here, pigfucker!&quot; and threw his iPad at some kid. #sxsw",iPad,Negative emotion,Negative,Apple,156
+5497,"RT @mention Fodder for #snubor panel at #SXSW: &quot;Right to Forget&quot; gains traction in Europe, causing issues for Google {link}",UNKNOWN,Negative emotion,Negative,Google,133
+5506,RT @mention forward to delicious T-Mobile 4G here in Austin while iPhone users struggle to do anything. #SXSW,iPhone,Negative emotion,Negative,Apple,109
+5508,"RT @mention Found the app kyping my iPhone's geolocation &amp; not releasing when in background. Need a patch, @mention #batterykiller #SXSW",iPad or iPhone App,Negative emotion,Negative,Apple,140
+5582,RT @mention Google Circles will be toast if it can't convince facebook users to start an account (or interface with FB)   #sxsw,Other Google product or service,Negative emotion,Negative,Google,127
+5594,"RT @mention Google hotpot- rate restaurants and get personalized recos on where to eat. Um, think foursquare, yelp, etc have this covered already. #SXSW",Other Google product or service,Negative emotion,Negative,Google,152
+5605,RT @mention Google Latina and see what you find? Porn...this is the first impression that people get about us? #latism #sxsw #sxswLatAm #LatinasInTech�۝,Google,Negative emotion,Negative,Google,152
+5621,RT @mention google presentation by Mayer is a sales pitch #fail #sxsw,Google,Negative emotion,Negative,Google,69
+5676,"RT @mention Google to Launch Major New Social Network Called Circles, Possibly Today at #sxsw rww.to/f6BCEt | O'goody more overload",Google,Negative emotion,Negative,Google,131
+5691,RT @mention Google vs Bing on #bettersearch. Bing has a shot at success w/ structured search.  Potentially higher margin CPA model vs #Google. #SXSW,Google,Negative emotion,Negative,Google,148
+5692,RT @mention Google was incapable of doing disruptive innovation- and acquired 89 startups over the last few years @mention #leanstartup #sxsw,Google,Negative emotion,Negative,Google,141
+5787,RT @mention Hipsters w/ oversized earphones pluged into the new IPAD make me happy that Texas has such loose gun laws #SXSW,iPad,Negative emotion,Negative,Apple,123
+5791,"RT @mention Hm? Do we need another 1? RT @mention Google to Launch Major New Social Network Called Circles, Possibly Today {link} #sxsw",Other Google product or service,Negative emotion,Negative,Google,135
+5792,RT @mention Hmm... the sxsw.com/interactive/live stream isn't ipad/mobile compatible. Maybe next year. #sxsw,iPad,Negative emotion,Negative,Apple,108
+5817,"RT @mention I cant wait to give the SAMSUNG people a demo of my horrible, terrible Google Nexus S phone at #sxsw",Other Google product or service,Negative emotion,Negative,Google,112
+5820,"RT @mention I feel like my iPhone: Always on, always doing something, running out of battery fast. #sxsw",iPhone,Negative emotion,Negative,Apple,104
+5823,RT @mention I have yet to walk into a conference room where it doesn't look like an Apple ad. You'd think there was nothing else. #SXSW,Apple,Negative emotion,Negative,Apple,135
+5828,RT @mention I know it's #SXSW because my iPhone has started lying to me about its signal strength.,iPhone,Negative emotion,Negative,Apple,98
+5832,RT @mention I think #Google lost their way by caring too much about their business (instead of their users) Tim O'Reilly #sxsw #pnid,Google,Negative emotion,Negative,Google,132
+5833,RT @mention I think my effing hubby is in line for an #iPad 2. Can someone point him towards the line-up for wife number #2. #sxswi #sxsw,iPad,Negative emotion,Negative,Apple,137
+5867,"RT @mention If you have an iPad DO NOT upgrade to the newest iOS yet, TweetDeck is very unstable on it #nten #11ntc #sxsw #sxswi",iPad,Negative emotion,Negative,Apple,128
+5891,"RT @mention In a room full of geeks talking TV, @mention just asked, &quot;Who uses Google TV?&quot; No one raised hand. #socialviewing #sxsw",Other Google product or service,Negative emotion,Negative,Google,141
+5923,RT @mention iPad design headaches with Josh Clark #tapworthy #SXSW  {link},iPad,Negative emotion,Negative,Apple,74
+5924,RT @mention iPad design malady: iPad Elbow - I hate the iPad's back button with the heat of a million suns. #tapworthy #sxsw,iPad,Negative emotion,Negative,Apple,124
+5933,RT @mention Ironic? I googled the directions to @mention party and ended up walked 6 blocks in the wrong direction. Time for bed I think. #SXSW,Other Google product or service,Negative emotion,Negative,Google,143
+5938,RT @mention It is ridiculous to see someone taking a photo during a session with their iPad. Cannot wait to see concert use. #SXSW #Silly,iPad,Negative emotion,Negative,Apple,137
+5958,RT @mention It's official: people using the iPad 2 to take photos just look weird. #SXSW,iPad,Negative emotion,Negative,Apple,88
+5967,RT @mention Josh Clark:  I hate the iPad's back button with the heat of a million suns.  #tapworthy #SXSW,iPad,Negative emotion,Negative,Apple,105
+5985,"RT @mention Just read that #apple will be at #SXSW selling iPad 2 on release day. Good lord, the vortex of smugness that day may be unbearable.",iPad,Negative emotion,Negative,Apple,143
+5987,RT @mention Just saw someone take a picture with an iPad 2 for the first time. Looks as ridiculous as you'd expect. #sxsw #sightings,iPad,Negative emotion,Negative,Apple,132
+6024,"RT @mention Line for Source Code is even longer than for iPad 2. Take that, Apple. #sxsw",Apple,Negative emotion,Negative,Apple,88
+6034,RT @mention Lonely Planet releases free Austin city guide iPhone app for #SXSW. Like there aren't enough apps cluttering up your handset.,iPad or iPhone App,Negative emotion,Negative,Apple,137
+6113,RT @mention New #SXSW rule: no more ooing and ahing over your new iPad. We get it. Its not a big deal. Everybody has one now... :-),iPad,Negative emotion,Negative,Apple,131
+6129,RT @mention New Iphone autocorrect already tried to change &quot;coworkers&quot; to &quot;visigoths.&quot; Its going to be a long five days of #sxsw,iPhone,Negative emotion,Negative,Apple,148
+6149,RT @mention Not a fan of a new #sxsw trend - audience sharing opinions via holding up an iPad. Not here to listen to you. #annoying,iPad,Negative emotion,Negative,Apple,131
+6154,RT @mention Note to self: downside of tweeting on an white iPad 2 expect to be mocked. @mention #sxsw,iPad,Negative emotion,Negative,Apple,101
+6157,RT @mention Nothing says DOUCHE CAKE like walking around with a IPAD like it's an Iphone #sxsw,iPad,Negative emotion,Negative,Apple,94
+6158,RT @mention Novelty of iPad news apps fades fast among #SXSW delegates - by @mention {link},iPad or iPhone App,Negative emotion,Negative,Apple,91
+6205,"RT @mention Part of Journalsim is the support of democracy, yes? Informed populous, yes? iPad, as a focus, does not support that #newsapps #sxsw",UNKNOWN,Negative emotion,Negative,Apple,144
+6252,"RT @mention RT @mention  @mention to Launch Major New Social Network Called #Circles, Possibly Today! {link} #sxsw #SMM &gt;&gt;Really Google? Now?",Google,Negative emotion,Negative,Google,147
+6276,"RT @mention RT @mention Apple is &quot;the classiest, fascist company in America,&quot; says @mention #sxsw",Apple,Negative emotion,Negative,Apple,107
+6298,RT @mention RT @mention forward to delicious T-Mobile 4G here in Austin while iPhone users struggle to do anything. #SXSW,iPhone,Negative emotion,Negative,Apple,121
+6377,RT @mention RT @mention Sound of My Voice was shot exploiting Apple &amp; Best Buy's 14-day return policy on iMacs. Brilliant. #sxsw,Apple,Negative emotion,Negative,Apple,132
+6428,"RT @mention Slides from #SXSW talk, &quot;iPad Design Headaches &quot; {link} #tapworthy . Really interesting for designers as well.",iPad,Negative emotion,Negative,Apple,132
+6448,RT @mention speaks truth: Watched #Apple staff at the temp #sxsw store just high five entire long line and facepalmed. Ugh. #LongLinesBadUX,Apple,Negative emotion,Negative,Apple,139
+6470,RT @mention SXSW 2011: Novelty of iPad news apps fades fast among digital delegates {link} #SXSW,iPad or iPhone App,Negative emotion,Negative,Apple,96
+6477,RT @mention Temp Apple Store 6th St  Austin #sxsw closed for night &quot;they're out of stuff' says Austin cops barring the door!,Apple,Negative emotion,Negative,Apple,129
+6480,RT @mention Temporary #sxsw apple store. Apple being sneaky as usual  {link},Apple,Negative emotion,Negative,Apple,76
+6508,"RT @mention the future is about networks, not just data. that's why google may not win long term #SXSW #web3 #SaatchiNY",Google,Negative emotion,Negative,Google,119
+6514,RT @mention The iPad 2 is the also a cartoonishly large digital camera. #SXSW #CStejas {link},iPad,Negative emotion,Negative,Apple,93
+6557,RT @mention This group next to me has 6 ppl @mention the table. Everyone is using thier phone/ipad instead of taking to each other. #SXSW,iPad,Negative emotion,Negative,Apple,137
+6700,RT @mention Who uses Google TV in this room? Nobody raises a hand in a packed room at the #socialviewing session at #sxsw,Other Google product or service,Negative emotion,Negative,Google,121
+6711,"RT @mention Will overload of info delivered by Google kill discovery? Google says ppl won't lose curiosity, but I wonder...We need serendipity. #SXSW",UNKNOWN,Negative emotion,Negative,BOTH,149
+6731,"RT @mention Woman in lobby: &quot;there's a website called, like, stupid iPhone speller, and it's ppl taking pics of funny autocorrected words.&quot; #sxsw",UNKNOWN,Negative emotion,Negative,Apple,155
+6749,"RT @mention yes, i hate the fanboys. still valid tho- to those that waited for the iPad2 instead of enjoying #sxsw: {link}",iPad,Negative emotion,Negative,Apple,122
+6767,"#sxsw iPhone app: control mania! Half of the screen used for buttons and filters, other half for content. #ui-fail",iPad or iPhone App,Negative emotion,Negative,Apple,114
+6772,"Fuck. iPhone crapped out, will not charge at all. Says it is charging, but at 5% after all night. What are my options in Austin? #sxsw",iPhone,Negative emotion,Negative,Apple,134
+6810,Damn it Google! Your glow-in-the-dark cup leaked glow-in-the-dark goo in my camera bag! #SXSW,Google,Negative emotion,Negative,Google,93
+6814,It just looks stupid to take pix with an iPad 2 - believe me guys  #sxsw,iPad,Negative emotion,Negative,Apple,72
+6849,Apple is opening a temporary store in Austin for #SXSW. Because people obviously want to shell out $1500 for a MacBook while visiting Austin,Apple,Negative emotion,Negative,Apple,140
+6850,Apple is opening a temporary store in Austin for #SXSW. Because people obviously want to shell out $1500 for a MacBook.,Apple,Negative emotion,Negative,Apple,119
+6872,"Google dropped real estate search b/c to do it right, they'd need to invest much more than they're willing to at the moment. #SXSW",Google,Negative emotion,Negative,Google,130
+6891,"NYT app for iPad: not &quot;here's an amazing way to serve our readership,&quot; more &quot;here's a market opportunity we can't ignore.&quot; #sxsw #newsapps",iPad or iPhone App,Negative emotion,Negative,Apple,158
+6913,Looking forward to delicious T-Mobile 4G here in Austin while iPhone users struggle to do anything.  #SXSW,iPhone,Negative emotion,Negative,Apple,106
+6919,Looking forward to the day when @mention and @mention release native Android 3.0 tablet-optimized clients! Google Latitude sucks! #sxsw,Other Google product or service,Negative emotion,Negative,Google,135
+6925,Both Microsoft and Google are ripping us off too {link} :( @mention a Joomla! wannabe logo #sxsw {link},Google,Negative emotion,Negative,Google,103
+6940,Yea!!! Another Google product that isn't available for Google Apps yet: Google Hotpot. #sxsw,Other Google product or service,Negative emotion,Negative,Google,92
+6941,&quot;No other reason for Apple's continued survival than the existence of God&quot; - @mention #enchantment  #SXSW #sxswi,Apple,Negative emotion,Negative,Apple,122
+6947,Twitter you have failed me for the last time *force chokes iPhone* #sxsw,iPhone,Negative emotion,Negative,Apple,72
+6974,But are your phones staying charged? My crappy #iPhone would never handle #SXSW! RT @mention @mention @mention no sleep crazyfest!!!!!!,iPhone,Negative emotion,Negative,Apple,135
+6978,"Part of Journalsim is the support of democracy, yes? Informed populous, yes? iPad, as a focus, does not support that #newsapps #sxsw",iPad,Negative emotion,Negative,Apple,132
+6987,"Checking out iPad Design Headaches (2 Tablets, Call in the Morning).
+{link} #SXSW #tapworthy #fb",UNKNOWN,Negative emotion,Negative,Apple,96
+7054,Brought up how Google Maps had rerouted all images of JCPenney to images of Macys or trashy restraunts. They had no comment #uosxsw #sxsw,Other Google product or service,Negative emotion,Negative,Google,137
+7078,Put the iPad down idiot! #SMComedyFyeah #SxSW,iPad,Negative emotion,Negative,Apple,45
+7103,Just stopped at the pop up Apple store.....lame!z!  Come on Apple you can still cut the weight in half. #sxsw,Apple,Negative emotion,Negative,Apple,109
+7109,@mention Peter Cashmore on the iPad 2: it's only a minor improvement. Not worth it unless you have money to burn. #SXSW,iPad,Negative emotion,Negative,Apple,119
+7151,Pop-up Apple Store seems to be out of pop-up iPad2s. #SXSW,Apple,Negative emotion,Negative,Apple,58
+7178,Clearly Apple has another daylight savings time bug with the iPhone 4 alarm. Also need to remember to fix my room's clocks. Whoops. #SXSW,iPhone,Negative emotion,Negative,Apple,137
+7182,Why the Apple pop-up shop at #SxSW sucks: {link},Apple,Negative emotion,Negative,Apple,48
+7187,Ughhh...Apple Store Austin at the Domain rain out of 3G iPads in first 25 minutes right before I got in #iPad2 #SXSW,Apple,Negative emotion,Negative,Apple,116
+7194,All LBS apps on my iPhone think I am in Orlando :)) ! I guess I have 2 check in at Disney vs #SXSW :)),iPad or iPhone App,Negative emotion,Negative,Apple,102
+7199,Attended preso on living simply #100tc at #sxswi #sxsw and felt a bit guilty taking notes on a new #iPad,iPad,Negative emotion,Negative,Apple,104
+7245,Apple...&quot;the classiest fascist company in America&quot; Kara Swisher #sxsw,Apple,Negative emotion,Negative,Apple,79
+7257,"Is twitter broken? Or is it my iPad. Can't follow the SXSW hash right now. Wow, that might be my nerdiest tweet yet. #tmsxsw #SXSW.",iPad,Negative emotion,Negative,Apple,131
+7260,"Okay, fair enough lining up for new tech, but not at the cost of #sxsw... It is so much better than a new iPad... {link}",iPad,Negative emotion,Negative,Apple,120
+7268,"Headed for iPad Design Headaches (2 Tablets, Call in the Morning) #SXSW {link}",iPad,Negative emotion,Negative,Apple,78
+7269,Design for iPad is like a design 101 class. Will someone give a talk and assume that we didn't all ditch our previous experience #sxsw,Other Apple product or service,Negative emotion,Negative,Apple,134
+7279,I can hear those ipad 2 nutters ipading away even now. Such is life in the techno hipster Mecca. #SXSW,iPad,Negative emotion,Negative,Apple,102
+7288,"Apps distract pubs, sez Khoi Vinh. Instead of focusing on reader exp, they're delivering same content 3 ways. #SXSW  {link}",UNKNOWN,Negative emotion,Negative,UNKNOWN,123
+7293,How frustrating is it that Zeldman autocorrects to Zelda on the iPhone? #jzsxsw #sxsw,iPhone,Negative emotion,Negative,Apple,85
+7302,Google Circles is (not) a real thing and will (not) be launched today at #sxsw {link},Other Google product or service,Negative emotion,Negative,Google,85
+7354,&quot;There is no other explanation for Apple's continued survival than the existence of God&quot; #GuyKawasaki #sxsw,Apple,Negative emotion,Negative,Apple,117
+7365,&quot;There's a reason why Google isn't in social -- they are too technical.&quot; #sxsw #comments,Google,Negative emotion,Negative,Google,98
+7368,"Enough already .... ���@mention Google to Launch Major New Social Network Called Circles, Possibly Today {link} #sxsw�۝",UNKNOWN,Negative emotion,Negative,Google,119
+7370,@mention really disappointed with the iPad app - lots of error messages have to switch to tweet deck for the rest of #sxsw,iPad or iPhone App,Negative emotion,Negative,Apple,122
+7385,Farmers prefer Balckberries over iPhones and Andriod devices. More durable? Anti-Apple feelings?  #mobilefarm #sxsw,iPhone,Negative emotion,Negative,Apple,115
+7387,Horrible repressed memories of the Apple spinning beach ball coming back at the #progressbar talk. #sxsw,Apple,Negative emotion,Negative,Apple,104
+7391,@mention Respectfully disagree about the iphone. Battery life is a problem and it isn't as ubiquitous as it seems. #project314 #sxsw,iPhone,Negative emotion,Negative,Apple,132
+7397,"#sxsw   Tried 2 days with iPAD, w/o MacBook Pro.  the experiment is over. I heart a real keyboard.",iPad,Negative emotion,Negative,Apple,98
+7400,Google (tries again) to launch a new social network called Circles: {link} #sxsw @mention #310409H2011,UNKNOWN,Negative emotion,Negative,Google,102
+7419,False Alarm: Google Circles Not Coming Now���and Probably Not Ever? - {link} #Google #Circles #Social #SXSW,UNKNOWN,Negative emotion,Negative,Google,107
+7426,iPad 2 turned into giant camera looks plain stupid #sxsw,iPad,Negative emotion,Negative,Apple,56
+7441,Why is #GroupMe not available in Canada for iPhone users? #SXSW - Would love to check it out.,iPad or iPhone App,Negative emotion,Negative,Apple,93
+7486,Or Droid RT @mention Has spontaniety in life been replaced by technology? When your iPhone battery dies you go home. Great ?  #sxsw,iPhone,Negative emotion,Negative,Apple,131
+7517,Will I survive #SXSW will only 1.6 gigs of space left on my iPhone? We shall see.,iPhone,Negative emotion,Negative,Apple,81
+7526,Guess everyone wanted to design ipad apps for their mom #sxsw,iPad or iPhone App,Negative emotion,Negative,Apple,61
+7554,Steve Jobs doesn't position the iPhone as a device made in China where suicide rates are high He sells dreams #Kawasaki #thisisdare #SXSW,iPhone,Negative emotion,Negative,Apple,137
+7564,&quot;This Google/Bing Q&amp;A panel is like the world's most expensive SEO consultation.&quot; -@mention  #SXSW,Google,Negative emotion,Negative,Google,112
+7569,Google was incapable of doing disruptive innovation- and acquired 89 startups over the last few years @mention #leanstartup #sxsw,Google,Negative emotion,Negative,Google,129
+7571,My friends iphone changed BACK an hour instead of forward. Its AT&amp;T. Any hints on how to fix it?! #SXSW #iphone #help,iPhone,Negative emotion,Negative,Apple,121
+7572,iPhone GPS is messed up. Thinks I'm in Yonkers. Almost as good as #SXSW. {link},iPhone,Negative emotion,Negative,Apple,79
+7609,"#SXSW does the world really needs Google Circles, Fb will just implement it eventually",Other Google product or service,Negative emotion,Negative,Google,86
+7645,Hey Marissa Mayer. Please tell us something new. Not about products Google launched months ago. #sxsw,Google,Negative emotion,Negative,Google,101
+7664,Anyone else having issues with gmail and using google services? #SXSW.,Google,Negative emotion,Negative,Google,70
+7665,Anyone else having trouble synching your schedule with the android sxsw go app? #sxsw,Android App,Negative emotion,Negative,Google,85
+7671,Anyone else with an iPhone getting the &quot;could not activate cellular data network&quot; error message? Is this a warning of #sxsw things to come?,iPhone,Negative emotion,Negative,Apple,149
+7703,@mention Should: if you didn't get iPad 1. Shouldn't: iPad2 3G 64GB + cover + $100 = MacBook Air. #SXSW,iPad,Negative emotion,Negative,Apple,103
+7706,���The classiest fascist company in existence�۝ - Kara Swisher #sxsw #apple,Apple,Negative emotion,Negative,Apple,75
+7744,Spending some time this morning resetting my android phone.  First day of #sxsw was too much for it.,Android,Negative emotion,Negative,Google,100
+7746,Just saw someone take a picture with an iPad 2 for the first time. Looks as ridiculous as you'd expect. #sxsw #sightings,iPad,Negative emotion,Negative,Apple,120
+7748,"Every person I see with a ipad looks crazy ,looks like they have a 80's cell phone in their hand  #sxsw",iPad,Negative emotion,Negative,Apple,103
+7763,What a dissapointment!!! RT @mention New #UberSocial for #iPhone now in the App Store includes UberGuide to #SXSW sponsored by (cont��_,iPad or iPhone App,Negative emotion,Negative,Apple,135
+7764,Google possibly  launching a social media service - again... #sxsw {link},Other Google product or service,Negative emotion,Negative,Google,73
+7778,Google lost its way by caring too much for the business vs. the users' - @mention #psych #sxsw,Google,Negative emotion,Negative,Google,94
+7786,"#SXSW: Mistakes Made Building @mention for iPhone (Plus, How to See Its Source Code!) {link}",iPhone,Negative emotion,Negative,Apple,92
+7788,"#SXSW: Mistakes Made Building Netflix for iPhone (Plus, How to See Its Source Code!) {link} via @mention",iPad or iPhone App,Negative emotion,Negative,Apple,104
+7795,"Opened yesterday. Line too long to wait in just to look. #SXSW #sxswi @mention Apple Store, SXSW {link}",Apple,Negative emotion,Negative,Apple,103
+7831,Yet the #SXSW #iPad Pop-up store was flawless. RT @mention Apple iPad 2 Launch: Poor Planning On Apple�۪s Part {link},Apple,Negative emotion,Negative,Apple,117
+7832,Massive #sxsw fail to run out of #iPad2 @mention Should have had a semi full parked out front! #justsayin {link},UNKNOWN,Negative emotion,Negative,Apple,112
+7836,I think #SXSW has taken it upon itself to make it clear to me that a Gen 1 iPhone ain't gonna cut it anymore.,UNKNOWN,Negative emotion,Negative,Apple,109
+7914,My biggest frustration with #SXSW so far is no one looks where they're going because glued to iPhone.,iPhone,Negative emotion,Negative,Apple,101
+7935,Is it just me or has the @mention client for Android gotten really buggy lately? #SXSW to blame?,Android,Negative emotion,Negative,Google,96
+7939,Off to get my badge. Then to find food and drink. Then figure out why my @mention iPhone is NOT roaming at #sxsw. Then unpack. Priorities,iPhone,Negative emotion,Negative,Apple,137
+7965,Proof that the iPad 2 turns you into a douchebag #SXSW {link},iPad,Negative emotion,Negative,Apple,61
+7966,Looking at the line for the pop up #sxsw apple store...I can't think of a single object I want that much.,Apple,Negative emotion,Negative,Apple,105
+7979,I have yet to walk into a conference room where it doesn't look like an Apple ad. You'd think there was nothing else. #SXSW,Apple,Negative emotion,Negative,Apple,123
+8015,tried installing @mention on my iphone but it crashes every time i open it. #sxsw,iPad or iPhone App,Negative emotion,Negative,Apple,81
+8024,I just watched &quot;iPad Design Headaches&quot; at #SXSW. Buttons are a hack.  #tapworthy,iPad,Negative emotion,Negative,Apple,90
+8031,"Not to hate on the iPad, but fleets of nerds armed with iPads navigating through crowds is as far from cool as I've EVER seen #sxsw",iPad,Negative emotion,Negative,Apple,131
+8053,"So, #twitter for iPhone: anyway to remove/burn hashtags? Eg #sxsw? V v bored already, already",iPhone,Negative emotion,Negative,Apple,93
+8081,Deleting the #sxsw iPhone app!  {link},iPad or iPhone App,Negative emotion,Negative,Apple,38
+8087,@mention the apple #sxsw #popupstore is like a crack house for mac addicts,Apple,Negative emotion,Negative,Apple,74
+8091,Apple is the classiest facist company in America. - Kara Swisher #sxsw,Apple,Negative emotion,Negative,Apple,70
+8123,Oh no another way to talk shit on the net Google to Launch Major New Social Network Called Circles Possibly Today {link} #sxsw,UNKNOWN,Negative emotion,Negative,Google,126
+8129,@mention They're journalists. They just spent all their money on #sxsw passes. Who can afford Google TV?,Google,Negative emotion,Negative,Google,104
+8241,"Google Hotpot - &quot;Not as good as other services, but we will force it on you anyways.&quot; #SXSW",Other Google product or service,Negative emotion,Negative,Google,101
+8263,"Perfect attention to detail RT @mention Google recreated the code for Pac-Man for their doodle, original bugs included. #sxsw #googledoodles",Google,Negative emotion,Negative,Google,140
+8267,iPhone battery is going quickly. Guy behind me let me borrow his portable charger. I want one! {link} #SXSW,iPhone,Negative emotion,Negative,Apple,107
+8298,wow you suck {link} iPad #sxsw Rebecca Black #fab5,iPad,Negative emotion,Negative,Apple,50
+8323,We're so ungrateful bc we have too much shit to play with. So turn off some of your shit (iPhone) now and then. #sxsw,iPhone,Negative emotion,Negative,Apple,117
+8343,Bad news update: the pop-up Apple Store is out of iPads! Not sure if they will have more by tomorrow. #SXSW,UNKNOWN,Negative emotion,Negative,Apple,107
+8359,Just because google patented something i.e. (Age of domain in rankings algorithm) doesn't mean they use it #qagb #SXSW,UNKNOWN,Negative emotion,Negative,Google,118
+8404,"If you have an iPad DO NOT upgrade to the newest iOS yet, TweetDeck is very unstable on it #nten #11ntc #sxsw #sxswi",iPad,Negative emotion,Negative,Apple,116
+8409,"You'll have to wait 4-5 weeks for an iPad 2, but not at the #AppleATXdt pop-up! Shipments daily (via @mention #SXSW",iPad,Negative emotion,Negative,Apple,115
+8445,ProTip: Avoid the Austin-area Apple stores on Friday #SXSW,Apple,Negative emotion,Negative,Apple,58
+8446,Auntie's voxpop of  popular #sxsw apps is worth a watch: {link} Not many Android phones on view.,Android,Negative emotion,Negative,Google,96
+8454,Don't know 1 user RT @mention Who uses Google TV in this room? Nobody raises a hand in a packed room at the #socialviewing session at #sxsw,Other Google product or service,Negative emotion,Negative,Google,139
+8463,Dear #SXSW goer... Please look up from your fucking iPhone when walking the halls. Thanks Hipsters. Hilarious!,iPhone,Negative emotion,Negative,Apple,110
+8464,"This #SXSW I am grateful for: my bicycle, having a back-up Twitter app. Cursing: losing an hour of zzzs, iPhone battery life.",iPhone,Negative emotion,Negative,Apple,125
+8466,Dear #sxsw iPhone app: you suck again this year! (sitby.us is great but doesn't include film sessions),iPad or iPhone App,Negative emotion,Negative,Apple,102
+8499,"If there was a popup store in Austin that sold nothing but iPhone battery extenders, it would make so much money. #sxsw",iPhone,Negative emotion,Negative,Apple,119
+8577,Hmmm...Taxi Magic on iPhone does not appear to be so magic any more in Austin #sxsw,iPad or iPhone App,Negative emotion,Negative,Apple,83
+8603,"Google guy at #sxsw talk is explaining how he made realistic Twitter bots as an experiment. Gee, thanks for doing that.",UNKNOWN,Negative emotion,Negative,Google,119
+8611,I think my effing hubby is in line for an #iPad 2. Can someone point him towards the line-up for wife number #2. #sxswi #sxsw,iPad,Negative emotion,Negative,Apple,125
+8638,I'm pretty sure the panelist that thinks &quot;Apple is drowning in their success&quot; is fucking insane. #SXSW,Apple,Negative emotion,Negative,Apple,112
+8672,"Hey is anyone doing #sxsw signing up for the group texting app, groupme? got it on my iphone, but no one else is on it, so....kinda useless.",UNKNOWN,Negative emotion,Negative,Apple,140
+8709,"Diller says Google TV &quot;might be run over by the PlayStation and the Xbox, which are essentially ready today.&quot; #sxsw #diller",Other Google product or service,Negative emotion,Negative,Google,133

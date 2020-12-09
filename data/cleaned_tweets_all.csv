@@ -5,7 +5,6 @@ id,tweet_text,labeled_brand_or_product,detected_emotion,sentiment,brand,tweet_ch
 3,@sxsw I hope this year's festival isn't as crashy as this year's iPhone app. #sxsw,iPad or iPhone App,Negative emotion,Negative,Apple,82
 4,"@sxtxstate great stuff on Fri #SXSW: Marissa Mayer (Google), Tim O'Reilly (tech books/conferences) &amp; Matt Mullenweg (Wordpress)",Google,Positive emotion,Positive,Google,131
 5,@teachntech00 New iPad Apps For #SpeechTherapy And Communication Are Showcased At The #SXSW Conference http://ht.ly/49n4M #iear #edchat #asd,UNKNOWN,No emotion toward brand or product,Neutral,Apple,140
-6,nan,UNKNOWN,No emotion toward brand or product,Neutral,UNKNOWN,3
 7,"#SXSW is just starting, #CTIA is around the corner and #googleio is only a hop skip and a jump from there, good time to be an #android fan",Android,Positive emotion,Positive,Google,138
 8,Beautifully smart and simple idea RT @madebymany @thenextweb wrote about our #hollergram iPad app for #sxsw! http://bit.ly/ieaVOB,iPad or iPhone App,Positive emotion,Positive,Apple,129
 9,Counting down the days to #sxsw plus strong Canadian dollar means stock up on Apple gear,Apple,Positive emotion,Positive,Apple,88

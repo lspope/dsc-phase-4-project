@@ -67,9 +67,10 @@ Futher analysis into the following areas could yield additional insights.
 ----eda.ipynb
 ----modeling.ipynb
 --data
-----cleaned_tweets.csv
-----test_processed.csv
-----train_processed.csv
+----cleaned_tweets_all.csv
+----cleaned_tweets_positive.csv
+----cleaned_tweets_negative.csv
+----cleaned_tweets_neutral.csv
 ----original (dir for raw data downloaded from challenge website)
 --extras (dir for Project Presentation and other supporting files)
 ```

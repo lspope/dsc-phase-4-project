@@ -1,6 +1,5 @@
 id,tweet_text,labeled_brand_or_product,detected_emotion,sentiment,brand,tweet_char_count
 5,@teachntech00 New iPad Apps For #SpeechTherapy And Communication Are Showcased At The #SXSW Conference http://ht.ly/49n4M #iear #edchat #asd,UNKNOWN,No emotion toward brand or product,Neutral,Apple,140
-6,nan,UNKNOWN,No emotion toward brand or product,Neutral,UNKNOWN,3
 16,Holler Gram for iPad on the iTunes App Store -  http://t.co/kfN3f5Q (via @marc_is_ken) #sxsw,UNKNOWN,No emotion toward brand or product,Neutral,Apple,92
 32,"Attn: All  #SXSW frineds, @mention Register for #GDGTLive  and see Cobra iRadar for Android. {link}",UNKNOWN,No emotion toward brand or product,Neutral,Google,99
 33,Anyone at  #sxsw want to sell their old iPad?,UNKNOWN,No emotion toward brand or product,Neutral,Apple,45

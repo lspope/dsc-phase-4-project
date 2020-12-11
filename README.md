@@ -20,7 +20,7 @@ Blog:[here](https://lspope.github.io/)
 The goal of this project is to build a Natural Language Processing model to analyze sentiment about Apple and Google products.  I'll classify a Tweet as negative, positive or neutral based on its content.
 
 
-The Stakeholders for my project are marketing professionals in either company who are interested in learning consumer sentiment. It appears that these tweets were gathered during a technology conference. This consumer sentiment would be of interest to marketing professionals and vendor organizers at this specific technology conference.
+The Stakeholders for my project are marketing professionals in either company who are interested in learning consumer sentiment. It appears that these tweets were gathered during a session of the South by Southwest film, culture, music, and technology conference. This consumer sentiment would be of interest to the conference marketing professionals and vendor organizers.
 
 
 # Data Description
@@ -57,13 +57,16 @@ The dataset for the project comes from CrowdFlower via [data.world](https://data
 
 Futher analysis into the following areas could yield additional insights.
 
-* Check if punctuation count could be a good feature for tweet classification.
-* Try using SMOTE to address class imblance and see if it results in similar increases in overfitting as RandomOverSampling
-* Hyperparameter tuning on the binary and multiclass classifier models using GridSearchCV
+* Check if punctuation count could be a good feature for Tweet classification.
+* Try (SMOTE)[https://imbalanced-learn.readthedocs.io/en/stable/generated/imblearn.over_sampling.SMOTE.html#r001eabbe5dd7-1] to address [class imblance](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/) and see if it results in similar increases in overfitting as RandomOverSampling.
+* Hyper-parameter tuning on the binary and multiclass classifier models using GridSearchCV.
+* Better understanding of using (LIME)[https://github.com/marcotcr/lime] to explain model behaviour.
+* Try Transfer Learning using the (GloVE)[https://nlp.stanford.edu/projects/glove/] pre-trained word embeddings for Twitter) [https://github.com/stanfordnlp/GloVe]
+* Get more Tweets for the corpus!
 
 
 # For More Information
-* Review the non-technical presentation [here](./extras/PhaseFourProject_LeahPope.pd)
+* Review the non-technical presentation [here](./extras/PhaseFourProject_LeahPope.pdf)
 * View the non-technical presentation video [here](link)
 * Read my blog post [here](https://lspope.github.io/)
 * Contact the author [Leah Pope](https://www.linkedin.com/in/leahspope/)
@@ -74,12 +77,15 @@ Futher analysis into the following areas could yield additional insights.
 --notebooks
 ----data_cleaning.ipynb
 ----eda.ipynb
-----modeling.ipynb
+----eda_corpus.ipynb
+----modeling.ipynb  (binary classifiers are here)
+----modeling2.ipynb (multiclasss classifiers are here)
 --data
 ----cleaned_tweets_all.csv
 ----cleaned_tweets_positive.csv
 ----cleaned_tweets_negative.csv
 ----cleaned_tweets_neutral.csv
-----original (dir for raw data downloaded from challenge website)
---extras (dir for Project Presentation and other supporting files)
+----crowdflower-brands-and-product-emotions/ (dir for data downloaded from challenge website)
+--extras (dir for Project Presentation and other project supporting files)
+--images (dir for images)
 ```

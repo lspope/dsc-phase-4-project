@@ -17,10 +17,10 @@ Blog:[here](https://lspope.github.io/)
 
 # Introduction
 
-The goal of this project is to build a Natural Language Processing model to analyze sentiment about Apple and Google products.  I'll be classifying a Tweet as negative or positive based on its content (a binary classification problem).
+The goal of this project is to build a Natural Language Processing model to analyze sentiment about Apple and Google products.  I'll classify a Tweet as negative, positive or neutral based on its content.
 
 
-The Stakeholders for my project are ?
+The Stakeholders for my project are marketing professionals in either company who are interested in learning consumer sentiment. It appears that these tweets were gathered during a technology conference. This consumer sentiment would be of interest to marketing professionals and vendor organizers at this specific technology conference.
 
 
 # Data Description
@@ -34,13 +34,22 @@ The dataset for the project comes from CrowdFlower via [data.world](https://data
 ### Question 2: Are the two companies represented equally in the labeled data?
 #### [Notebook](./notebooks/eda.ipynb)
 
-### Question 3: What insights can the data provide for specific products?
+### Question 3: What insights can the data provide for specific brands?
 #### [Notebook](./notebooks/eda.ipynb)
 
 
+# Corpus EDA Questions Explored
+### Question 1: What the most common words in Postitive/Negative/Neutral Tweets?
+#### [Notebook](./notebooks/eda_corpus.ipynb)
+
+### Question 2: Is there a difference in character count between Postitive/Negative/Neutral Tweets?
+#### [Notebook](./notebooks/eda_corpus.ipynb)
+
+
 # Modeling
-### Creating a binary classifier for positive/negative consumer Tweets on Apple and Google products.
-#### [Notebook](./notebooks/classifer_modeling.ipynb)
+### Creating binary and multiclass classifiers for Tweets on Apple and Google products.
+#### [Notebook for Binary Classifiers](./notebooks/modeling.ipynb)
+#### [Notebook for Multiclass Classifers](./notebooks/modeling1.ipynb)
 
 
 
@@ -48,9 +57,9 @@ The dataset for the project comes from CrowdFlower via [data.world](https://data
 
 Futher analysis into the following areas could yield additional insights.
 
-* __idea 1__  Multiclass classifier with negative/positive/neutral sentiment classes.
-
-* __idea 2__ ?
+* Check if punctuation count could be a good feature for tweet classification.
+* Try using SMOTE to address class imblance and see if it results in similar increases in overfitting as RandomOverSampling
+* Hyperparameter tuning on the binary and multiclass classifier models using GridSearchCV
 
 
 # For More Information

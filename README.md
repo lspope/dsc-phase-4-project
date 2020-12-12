@@ -10,7 +10,7 @@ Presentation: [here](./extras/PhaseFourProject_LeahPope.pdf)
 
 Presentation Video: [Coming Soon!](addlink)
 
-Blog:[Coming Soon!](https://lspope.github.io/)
+Blog: [Coming Soon!](https://lspope.github.io/)
 
 ![tweeting](images/joshua-hoehne-Lh_sFxD8AkI-unsplash.jpg)
 
@@ -25,36 +25,26 @@ The Stakeholders for my project are marketing professionals in either company wh
 
 # Data Description
 The dataset for the project comes from [CrowdFlower](https://data.world/crowdflower) via [data.world](https://data.world/crowdflower/brands-and-product-emotions). Human raters rated the sentiment in over 9,000 Tweets as positive, negative, or neither.
-* judge_1377884607_tweet_product_company.csv
 
 # EDA Questions Explored
 ### Question 1: What is the general breakdown for these Tweets?
-#### [Notebook](./notebooks/eda.ipynb)
-
-### Question 2: Are the two companies represented equally in the labeled data?
-#### [Notebook](./notebooks/eda.ipynb)
-
+### Question 2: Are the two brands represented equally in the labeled data?
 ### Question 3: What insights can the data provide for specific brands?
 #### [Notebook](./notebooks/eda.ipynb)
 
 
 # Corpus EDA Questions Explored
-### Question 1: What the most common words in Postitive/Negative/Neutral Tweets?
-#### [Notebook](./notebooks/eda_corpus.ipynb)
-
+### Question 1: What are the most common words in Postitive/Negative/Neutral Tweets?
 ### Question 2: Is there a difference in character count between Postitive/Negative/Neutral Tweets?
 #### [Notebook](./notebooks/eda_corpus.ipynb)
-
 
 # Modeling
 ### Creating binary and multiclass classifiers for Tweets on Apple and Google products.
 #### [Notebook for Binary Classifiers](./notebooks/modeling.ipynb)
-#### [Notebook for Multiclass Classifers](./notebooks/modeling1.ipynb)
-
+#### [Notebook for Multiclass Classifers](./notebooks/modeling2.ipynb)
 
 
 # Next Steps/Future Work
-
 Futher analysis into the following areas could yield additional insights.
 
 * Check if punctuation count could be a good feature for Tweet classification.
@@ -62,10 +52,10 @@ Futher analysis into the following areas could yield additional insights.
 * Try using SMOTE to address class imbalance and see if it results in similar increases in overfitting as RandomOverSampling
 * Hyper-parameter tuning for the Random Forest classifiers.
 * Better understanding of using [LIME](https://github.com/marcotcr/lime) to explain model behaviour.
-* Try Transfer Learning using the [GloVE](https://nlp.stanford.edu/projects/glove/) [pre-trained word embeddings for Twitter] (https://github.com/stanfordnlp/GloVe)
+* Try Transfer Learning using the [GloVE](https://nlp.stanford.edu/projects/glove/) pre-trained [word embeddings for Twitter](https://github.com/stanfordnlp/GloVe)
 * Get more Tweets for the corpus!
     * Research for pre-labled Tweets
-    * Perform Sentiment Analysis using [VADER] (https://github.com/cjhutto/vaderSentiment) tool and compare VADER result to the human-annotated Tweets in this corpus. If VADER sentiment is similar enough to human labled sentiment, I could get more Google/Apple product Tweets and label them using VADER to create a larger corpus. :)
+    * Perform Sentiment Analysis using [VADER](https://github.com/cjhutto/vaderSentiment) tool and compare VADER result to the human-annotated Tweets in this corpus. If VADER sentiment is similar enough to human labled sentiment, I could get more Google/Apple product Tweets and label them using VADER to create a larger corpus. :)
 
 # For More Information
 * Review the non-technical presentation [here](./extras/PhaseFourProject_LeahPope.pdf)

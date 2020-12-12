@@ -88,31 +88,6 @@ def plot_word_cloud(text, word_max, stopwords_list, bg_color='black'):
     plt.show()
 
 
-#TODO: figure out why this is not working to apply the image as mask
-def plot_word_cloud_with_mask(text, word_max, stopwords_list, bg_color='black'):
-    # get data directory (using getcwd() is needed to support running example in generated IPython notebook)
-    d = path.dirname(__file__) if "__file__" in locals() else os.getcwd()
-    twitter_mask = np.array(Image.open('../images/twitter.png'))
-    cloud = wordcloud.WordCloud(background_color=bg_color, 
-                            min_word_length=2,
-                            mask=twitter_mask,
-                            contour_width=3, 
-                            contour_color='steelblue',
-                            max_words=word_max)
-    cloud.generate(text)
-
-    # store to file
-    cloud.to_file(path.join(d, "twitter_cloud.png"))
-
-    # plot it
-    #plt.figure(figsize=(15,10))
-    plt.imshow(cloud, interpolation='bilinear') 
-    plt.axis("off")
-    plt.imshow(twitter_mask, cmap=plt.cm.gray, interpolation='bilinear')
-    plt.axis("off")
-    plt.show()
-
-
 def show_peformance_metrics(y_train, y_train_pred, X_test, y_test, y_pred, names):
     train_score = accuracy_score(y_train, y_train_pred)
     test_score = accuracy_score(y_test, y_pred)

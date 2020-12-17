@@ -10,7 +10,7 @@ Presentation: [here](./extras/PhaseFourProject_LeahPope.pdf)
 
 Presentation Video: [Coming Soon!](addlink)
 
-Blog: [Coming Soon!](https://lspope.github.io/)
+Blog: [On Medium](https://leahspope7.medium.com/comparing-vader-and-text-blob-to-human-sentiment-77068cf73982)
 
 ![tweeting](images/joshua-hoehne-Lh_sFxD8AkI-unsplash.jpg)
 

@@ -22,15 +22,18 @@ import seaborn as sns
 lemmatizer = WordNetLemmatizer()
 
 def get_eng_stopwords_list():
+    ''' Get the basic list of English stops words, plus punctuation, and empty text signifiers '''
     # Get English stopwords, punctuation, and 'empty text' signifiers (like empty quotes and ...)
     return stopwords.words('english')  + list(string.punctuation) + ["''", '""', '...', '``']
 
 
 def get_social_media_stopwords_list():
+    ''' Get the basic list of English stops words, plus punctuation, empty text signifiers, and dataset-specific stopwords '''
     return stopwords.words('english') + ['rt', 'link','&', 'SXSW', 'sxsw', 'austin'] + list(string.punctuation) + ["''", '""', '..', '...', '``']
 
 
 def clean_tweet(tweet):
+    ''' Clean up the tweet text '''
     # remove hashtags - only removing the hash # sign from the word
     tweet = re.sub(r'#', '', tweet)
 
@@ -48,6 +51,7 @@ def clean_tweet(tweet):
 
 
 def tokenize_lemmatize_tweet(tweet):
+    ''' Tokenize then Lemmatize the given tweet '''
     tweet_tokenizer = TweetTokenizer(preserve_case=False, strip_handles=True, reduce_len=True)
     tokens = tweet_tokenizer.tokenize(tweet)
     lemmatized_tokens = [lemmatizer.lemmatize(token) for token in tokens]
@@ -55,12 +59,14 @@ def tokenize_lemmatize_tweet(tweet):
 
 
 def tokenize_tweet(tweet):
+    ''' Tokenize the given tweet '''
     tweet_tokenizer = TweetTokenizer(preserve_case=False, strip_handles=True, reduce_len=True)
     tokens = tweet_tokenizer.tokenize(tweet)
     return tokens
     
 
 def process_tweet_text_encode_to_ascii(tweet, stopwords_list):
+    ''' Tweet prep for word cloud. Tokenize the given tweet, remove stopwords and use ascii encoding'''
     #tokenize, lowercase each token, remove stopwords
     stopwords_removed = ''
     tweet = clean_tweet(tweet)
@@ -76,6 +82,7 @@ def process_tweet_text_encode_to_ascii(tweet, stopwords_list):
 
 
 def plot_word_cloud(text, word_max, stopwords_list, bg_color='black'):
+    ''' Plot a word cloud from the given text '''
     cloud = wordcloud.WordCloud(background_color=bg_color, 
                             min_word_length=2,
                             max_words=word_max)
@@ -89,6 +96,7 @@ def plot_word_cloud(text, word_max, stopwords_list, bg_color='black'):
 
 
 def show_peformance_metrics(y_train, y_train_pred, X_test, y_test, y_pred, names):
+    ''' Print out peformance metrics'''
     train_score = accuracy_score(y_train, y_train_pred)
     test_score = accuracy_score(y_test, y_pred)
     print('--------------------------------------------------------------------------')
@@ -99,6 +107,7 @@ def show_peformance_metrics(y_train, y_train_pred, X_test, y_test, y_pred, names
 
 
 def plot_pretty_cf(predictor, xtest, ytest, cmap='Blues', normalize='true', title=None):
+    ''' Plot a pretty confusion matrix '''
     fig, ax = plt.subplots(figsize=(8, 8))
     plot_confusion_matrix(predictor, xtest, ytest, cmap=cmap, normalize=normalize, ax=ax)
     ax.set_title(title, size='large')

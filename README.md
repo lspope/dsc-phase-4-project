@@ -49,9 +49,7 @@ The dataset for the project comes from [CrowdFlower](https://data.world/crowdflo
 
 None of the binary classifiers did a good job with classifying Negative tweets, even with RandomOverSampling. __RandomForest__ and __RandomForest with RandomOverSampling__ had the highest weighted F1 scores of all models I trained.  I'm calling __RandomForest with RandomOverSampling__ the winner as it has a slightly better True Positive rate for correctly identifying Negative Tweets (0.37 vs 0.3). This is still crummy.
 
-Here's the breakdown of all Binary Classifier Models:
-*__MODEL__ - __Weighted F1 Score__
-* MODEL -  Weighted F1 Score
+Here's the breakdown of all Binary Classifier Models and scores:
 * RandomForest - 0.87
 * RandomForest ROS - 0.87  
 * Multimonial NB  - 0.82
@@ -63,8 +61,7 @@ Here's the breakdown of all Binary Classifier Models:
 
 RandomForest (and RandomForest with RandomOverSampling) had the highest weighted F1 scores of all models I trained. I'm calling RandomForest with RandomOverSampling the winner as it has a slightly better True Positive rate for correctly identifying Negative Tweets (0.29 vs 0.25). I imagine Negative tweets are most interesting to stakeholders. It also has a better True Positive rate for correctly identifying Positive Tweets (0.56 vs 0.48). These numbers are still pretty poor.
 
-Here's the breakdown of all Multiclass Classifier Models:
-*__MODEL__ - __Weighted F1 Score__
+Here's the breakdown of all Multiclass Classifier Models and scores:
 * RandomForest - 0.68
 * RandomForest ROS - 0.68
 * Multimonial NB - 0.60

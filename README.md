@@ -6,7 +6,7 @@
 
 Prepared and presented by: [Leah Pope](https://www.linkedin.com/in/leahspope/)
 
-Presentation: [here](./extras/PhaseFourProject_LeahPope.pdf)
+Presentation: [here](PhaseFourProject_LeahPope.pdf)
 
 Blog: [On Medium](https://leahspope7.medium.com/comparing-vader-and-text-blob-to-human-sentiment-77068cf73982)
 
@@ -95,7 +95,7 @@ Futher analysis into the following areas could yield additional insights.
     * Perform Sentiment Analysis using [VADER](https://github.com/cjhutto/vaderSentiment) and [Text Blob](https://github.com/sloria/textblob) tools and compare tool results to the human-annotated Tweets in this corpus. If the combined tool sentiment is similar enough to human labled sentiment, I could get more Google/Apple product Tweets and label them using tools to create a larger corpus. :)
 
 # For More Information
-* Review the non-technical presentation [here](./extras/PhaseFourProject_LeahPope.pdf)
+* Review the non-technical presentation [here](PhaseFourProject_LeahPope.pdf)
 * Contact the author [Leah Pope](https://www.linkedin.com/in/leahspope/)
 
 

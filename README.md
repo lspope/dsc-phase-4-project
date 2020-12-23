@@ -111,6 +111,5 @@ Futher analysis into the following areas could yield additional insights.
 ----cleaned_tweets_negative.csv
 ----cleaned_tweets_neutral.csv
 ----crowdflower-brands-and-product-emotions/ (dir for data downloaded from challenge website)
---extras (dir for Project Presentation and other project supporting files)
 --images (dir for images)
 ```
